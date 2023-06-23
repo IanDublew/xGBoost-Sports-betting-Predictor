@@ -1,4 +1,4 @@
-TEAM,W,D,L,RESULTS
+TEAM,W,d,L,RESULTS
 Crystal Palace - Arsenal,4.58,3.57,1.84,l
 Tottenham - Southampton,1.36,5.2,8.73,w
 Newcastle - Nottingham,1.58,4.03,6.17,w
@@ -2463,3 +2463,763 @@ Man United-Crystal Palace,2.5,3.3,3.1,w
 Southampton-Stoke,1.8,3.8,4.75,l
 Swansea-West Brom,2.1,3.5,3.75,w
 Watford-Man City,11,6,1.3,l
+Bournemouth-Aston Villa,2.1,3.3,3.3,l
+Chelsea-Swansea,1.33,4.8,8.3,d
+Everton-Watford,1.7,3.6,4.7,d
+Leicester-Sunderland,2,3.3,3.6,w
+Man United-Tottenham,1.65,3.6,5.1,w
+Norwich-Crystal Palace,2.4,3.2,2.85,l
+Arsenal-West Ham,1.33,4.8,8.3,l
+Newcastle-Southampton,2.65,3.3,2.5,d
+Stoke-Liverpool,2.9,3.3,2.3,l
+West Brom-Man City,5.1,3.6,1.65,l
+Aston Villa-Man United,5,3.6,1.67,l
+Southampton-Everton,2.1,3.2,3.4,l
+Sunderland-Norwich,2.3,3.3,2.9,l
+Swansea-Newcastle,1.9,3.45,3.8,w
+Tottenham-Stoke,1.7,3.6,4.7,d
+Watford-West Brom,2.4,3.2,2.85,d
+West Ham-Leicester,2.2,3.3,3.1,l
+Crystal Palace-Arsenal,4.7,3.6,1.7,l
+Man City-Chelsea,2.1,3.3,3.3,w
+Liverpool-Bournemouth,1.4,4.4,7.3,w
+Crystal Palace-Aston Villa,1.9,3.4,3.9,w
+Leicester-Tottenham,2.6,3.2,2.6,d
+Man United-Newcastle,1.35,4.8,7.6,d
+Norwich-Stoke,2.4,3.2,2.85,d
+Sunderland-Swansea,3.3,3.3,2.1,d
+West Ham-Bournemouth,2.2,3.2,3.2,l
+Everton-Man City,4.7,3.6,1.7,l
+Watford-Southampton,2.6,3.2,2.6,d
+West Brom-Chelsea,5.1,3.6,1.65,l
+Arsenal-Liverpool,1.8,3.5,4.2,d
+Aston Villa-Sunderland,1.9,3.45,3.8,d
+Bournemouth-Leicester,2.2,3.2,3.2,d
+Chelsea-Crystal Palace,1.33,4.8,8.3,l
+Liverpool-West Ham,1.4,4.4,7.3,l
+Man City-Watford,1.2,5.8,13,w
+Newcastle-Arsenal,5,3.9,1.6,l
+Stoke-West Brom,2,3.3,3.6,l
+Tottenham-Everton,2,3.3,3.6,d
+Southampton-Norwich,1.9,3.45,3.8,w
+Swansea-Man United,3.2,3.2,2.2,w
+Arsenal-Stoke,1.3,5,9,w
+Crystal Palace-Man City,5.4,3.7,1.6,l
+Everton-Chelsea,3.6,3.3,2,w
+Man United-Liverpool,1.85,3.45,4,w
+Norwich-Bournemouth,2.3,3.3,2.9,w
+Watford-Swansea,2.6,3.2,2.6,w
+West Brom-Southampton,2.65,3.3,2.5,d
+Leicester-Aston Villa,1.85,3.45,4,w
+Sunderland-Tottenham,3.6,3.3,2,l
+West Ham-Newcastle,2.1,3.3,3.3,w
+Aston Villa-West Brom,2.3,3.2,3,l
+Bournemouth-Sunderland,1.75,3.5,4.5,w
+Chelsea-Arsenal,2.3,3.2,3,w
+Man City-West Ham,1.25,5.5,10.3,l
+Newcastle-Watford,2.4,3.3,2.75,l
+Stoke-Leicester,2.4,3.2,2.85,d
+Swansea-Everton,2.3,3.2,3,d
+Liverpool-Norwich,1.55,3.9,5.6,d
+Southampton-Man United,3,3.2,2.3,l
+Tottenham-Crystal Palace,1.85,3.45,4,w
+Leicester-Arsenal,3.8,3.45,1.9,l
+Liverpool-Aston Villa,1.5,4,6.1,w
+Man United-Sunderland,1.2,5.8,13,w
+Newcastle-Chelsea,5.4,3.7,1.6,d
+Southampton-Swansea,2.2,3.2,3.2,w
+Stoke-Bournemouth,2.5,3.2,2.75,w
+Tottenham-Man City,3.6,3.3,2,w
+West Ham-Norwich,2.1,3.3,3.3,d
+Watford-Crystal Palace,2.5,3.2,2.75,l
+West Brom-Everton,2.85,3.2,2.4,l
+Aston Villa-Stoke,2.4,3.3,2.75,l
+Bournemouth-Watford,2.1,3.3,3.3,d
+Chelsea-Southampton,1.7,3.6,4.7,l
+Crystal Palace-West Brom,1.8,3.5,4.2,w
+Man City-Newcastle,1.25,5.5,10.3,w
+Norwich-Leicester,2.3,3.3,2.9,l
+Sunderland-West Ham,2.9,3.3,2.3,d
+Arsenal-Man United,2.1,3.3,3.3,w
+Everton-Liverpool,2.6,3.2,2.6,d
+Swansea-Tottenham,2.6,3.2,2.6,d
+Chelsea-Aston Villa,1.35,4.8,7.6,w
+Crystal Palace-West Ham,1.9,3.45,3.8,l
+Everton-Man United,2.9,3.3,2.3,l
+Man City-Bournemouth,1.3,5,9,w
+Southampton-Leicester,1.8,3.5,4.2,d
+Tottenham-Liverpool,2.5,3.2,2.75,d
+Watford-Arsenal,5,3.9,1.6,l
+West Brom-Sunderland,1.85,3.45,4,w
+Newcastle-Norwich,2.5,3.3,2.65,w
+Swansea-Stoke,2,3.3,3.6,l
+Arsenal-Everton,1.45,4,7,w
+Aston Villa-Swansea,2.75,3.2,2.5,l
+Leicester-Crystal Palace,2.2,3.2,3.2,w
+Norwich-West Brom,2.1,3.3,3.3,l
+Stoke-Watford,2,3.3,3.6,l
+West Ham-Chelsea,3.8,3.45,1.9,w
+Bournemouth-Tottenham,3.2,3.2,2.2,l
+Liverpool-Southampton,1.85,3.45,4,d
+Man United-Man City,2.6,3.2,2.6,d
+Sunderland-Newcastle,2.3,3.3,2.9,w
+Chelsea-Liverpool,2.1,3.2,3.4,l
+Crystal Palace-Man United,3.4,3.2,2.1,d
+Man City-Norwich,1.22,5.5,12,w
+Newcastle-Stoke,2.5,3.3,2.65,d
+Swansea-Arsenal,4.7,3.6,1.7,l
+Watford-West Ham,2.6,3.2,2.6,w
+West Brom-Leicester,2.65,3.3,2.5,l
+Everton-Sunderland,1.5,4,6.1,w
+Southampton-Bournemouth,1.55,4,5.5,w
+Tottenham-Aston Villa,1.4,4.4,7.3,w
+Bournemouth-Newcastle,2.2,3.3,3.1,l
+Leicester-Watford,1.85,3.45,4,w
+Man United-West Brom,1.35,4.8,7.6,w
+Norwich-Swansea,2.5,3.3,2.65,w
+Stoke-Chelsea,3.3,3.3,2.1,w
+Sunderland-Southampton,4,3.45,1.85,l
+West Ham-Everton,2.5,3.3,2.65,d
+Arsenal-Tottenham,1.6,3.9,5,d
+Aston Villa-Man City,6.1,4,1.5,d
+Liverpool-Crystal Palace,1.6,3.7,5.4,l
+Chelsea-Norwich,1.4,4.4,7.3,w
+Everton-Aston Villa,1.55,3.9,5.6,w
+Man City-Liverpool,1.7,3.6,4.7,l
+Newcastle-Leicester,2.65,3.3,2.5,l
+Southampton-Stoke,1.65,3.6,5.1,l
+Swansea-Bournemouth,1.9,3.45,3.8,d
+Watford-Man United,3.8,3.45,1.9,l
+West Brom-Arsenal,5.6,3.9,1.55,w
+Tottenham-West Ham,1.6,3.7,5.4,w
+Crystal Palace-Sunderland,1.65,3.6,5.1,l
+Aston Villa-Watford,2.5,3.3,2.65,l
+Bournemouth-Everton,2.75,3.3,2.4,d
+Crystal Palace-Newcastle,1.75,3.5,4.5,w
+Leicester-Man United,2.9,3.3,2.3,d
+Man City-Southampton,1.5,4,6.1,w
+Sunderland-Stoke,2.75,3.3,2.4,w
+Liverpool-Swansea,1.5,4,6.1,w
+Norwich-Arsenal,6.1,4,1.5,d
+Tottenham-Chelsea,2.6,3.2,2.6,d
+West Ham-West Brom,2,3.3,3.6,d
+Arsenal-Sunderland,1.22,5.5,12,w
+Chelsea-Bournemouth,1.35,4.8,7.6,l
+Man United-West Ham,1.4,4.4,7.3,d
+Southampton-Aston Villa,1.45,4,7,d
+Stoke-Man City,4.7,3.6,1.7,w
+Swansea-Leicester,2.65,3.3,2.5,l
+Watford-Norwich,2,3.3,3.6,w
+West Brom-Tottenham,3.8,3.45,1.9,d
+Newcastle-Liverpool,5.4,3.7,1.6,w
+Everton-Crystal Palace,2,3.3,3.6,d
+Bournemouth-Man United,3,3.2,2.3,w
+Crystal Palace-Southampton,2.5,3.2,2.75,w
+Man City-Swansea,1.3,5,9,w
+Norwich-Everton,2.65,3.3,2.5,d
+Sunderland-Watford,2.6,3.2,2.6,l
+West Ham-Stoke,2.5,3.3,2.65,d
+Aston Villa-Arsenal,5.5,4,1.55,l
+Liverpool-West Brom,1.4,4.4,7.3,d
+Tottenham-Newcastle,1.4,4.4,7.3,l
+Leicester-Chelsea,3,3.2,2.3,w
+Chelsea-Sunderland,1.33,4.8,8.3,w
+Everton-Leicester,2.1,3.3,3.3,l
+Man United-Norwich,1.5,4,6.1,l
+Newcastle-Aston Villa,2,3.3,3.6,d
+Southampton-Tottenham,2.6,3.2,2.6,l
+Stoke-Crystal Palace,2.4,3.2,2.85,l
+West Brom-Bournemouth,2.5,3.2,2.75,l
+Swansea-West Ham,2.1,3.3,3.3,d
+Watford-Liverpool,3.6,3.3,2,w
+Arsenal-Man City,2.5,3.3,2.65,w
+Aston Villa-West Ham,2.65,3.3,2.5,d
+Bournemouth-Crystal Palace,2.4,3.3,2.75,d
+Chelsea-Watford,1.4,4.4,7.3,d
+Liverpool-Leicester,1.9,3.45,3.8,w
+Man City-Sunderland,1.2,5.8,13,w
+Newcastle-Everton,2.9,3.3,2.3,l
+Southampton-Arsenal,3.3,3.3,2.1,w
+Stoke-Man United,2.75,3.3,2.4,w
+Swansea-West Brom,2,3.3,3.6,w
+Tottenham-Norwich,1.45,4,7,w
+Arsenal-Bournemouth,1.42,4.3,7,w
+Crystal Palace-Swansea,2,3.3,3.6,d
+Everton-Stoke,1.9,3.45,3.8,l
+Man United-Chelsea,2.6,3.2,2.6,d
+Norwich-Aston Villa,2,3.3,3.6,w
+Watford-Tottenham,3.3,3.3,2.1,l
+West Brom-Newcastle,2.1,3.3,3.3,w
+West Ham-Southampton,2.9,3.3,2.3,w
+Leicester-Man City,3.8,3.45,1.9,d
+Sunderland-Liverpool,4.5,3.5,1.75,l
+Arsenal-Newcastle,1.3,5,9,w
+Leicester-Bournemouth,1.9,3.45,3.8,d
+Man United-Swansea,1.5,4,6.1,w
+Norwich-Southampton,2.9,3.3,2.3,w
+Sunderland-Aston Villa,2.3,3.3,2.9,w
+Watford-Man City,4.7,3.6,1.7,l
+West Brom-Stoke,2.55,3.1,2.75,w
+West Ham-Liverpool,3.3,3.3,2.1,w
+Crystal Palace-Chelsea,3.1,3.3,2.2,l
+Everton-Tottenham,2.6,3.2,2.6,d
+Aston Villa-Crystal Palace,2.6,3.2,2.6,w
+Bournemouth-West Ham,2.1,3.3,3.3,l
+Newcastle-Man United,4.2,3.5,1.8,d
+Chelsea-West Brom,1.4,4.4,7.3,d
+Liverpool-Arsenal,2.75,3.3,2.4,d
+Man City-Everton,1.45,4,7,d
+Southampton-Watford,2,3.3,3.6,w
+Stoke-Norwich,2,3.3,3.6,w
+Swansea-Sunderland,1.75,3.5,4.5,l
+Tottenham-Leicester,1.75,3.5,4.5,l
+Aston Villa-Leicester,2.9,3.3,2.3,d
+Bournemouth-Norwich,1.9,3.45,3.8,w
+Chelsea-Everton,1.75,3.5,4.5,d
+Man City-Crystal Palace,1.4,4.4,7.3,w
+Newcastle-West Ham,2.6,3.2,2.6,w
+Southampton-West Brom,1.8,3.5,4.2,w
+Tottenham-Sunderland,1.37,4.6,7.5,w
+Liverpool-Man United,2.5,3.2,2.75,l
+Stoke-Arsenal,3.8,3.45,1.9,d
+Swansea-Watford,2.3,3.3,2.9,w
+Crystal Palace-Tottenham,3.2,3.2,2.2,l
+Leicester-Stoke,2,3.3,3.6,w
+Man United-Southampton,1.8,3.5,4.2,l
+Norwich-Liverpool,3.6,3.3,2,l
+Sunderland-Bournemouth,2.65,3.3,2.5,d
+Watford-Newcastle,2,3.3,3.6,w
+West Brom-Aston Villa,2.15,3.25,3.25,d
+West Ham-Man City,4.7,3.6,1.7,d
+Arsenal-Chelsea,2.2,3.25,3.3,l
+Everton-Swansea,1.7,3.6,4.7,l
+Arsenal-Southampton,1.75,3.5,4.5,d
+Crystal Palace-Bournemouth,2.3,3.2,3,l
+Leicester-Liverpool,2.6,3.2,2.6,w
+Man United-Stoke,1.75,3.5,4.5,w
+Norwich-Tottenham,3.8,3.45,1.9,l
+Sunderland-Man City,6.1,4,1.5,l
+West Brom-Swansea,2.5,3.05,2.85,d
+West Ham-Aston Villa,1.9,3.45,3.8,w
+Everton-Newcastle,1.65,3.7,4.9,w
+Watford-Chelsea,3.6,3.3,2,d
+Aston Villa-Norwich,2.4,3.2,2.85,w
+Liverpool-Sunderland,1.4,4.4,7.3,d
+Man City-Leicester,1.6,4,5,l
+Newcastle-West Brom,2.1,3.3,3.3,w
+Southampton-West Ham,1.7,3.6,4.7,w
+Stoke-Everton,2.55,3.3,2.6,l
+Swansea-Crystal Palace,2.1,3.3,3.3,d
+Tottenham-Watford,1.5,4,6.1,w
+Bournemouth-Arsenal,3.6,3.3,2,l
+Chelsea-Man United,2.2,3.3,3.1,d
+Bournemouth-Stoke,2.1,3.3,3.3,l
+Chelsea-Newcastle,1.5,4,6.1,w
+Crystal Palace-Watford,2.2,3.3,3.1,l
+Everton-West Brom,1.6,3.7,5.4,l
+Norwich-West Ham,2.6,3.2,2.6,d
+Sunderland-Man United,4.5,3.5,1.75,w
+Swansea-Southampton,2.6,3.2,2.6,l
+Arsenal-Leicester,1.8,3.5,4.2,w
+Aston Villa-Liverpool,3.6,3.3,2,l
+Man City-Tottenham,1.9,3.45,3.8,l
+Leicester-Norwich,1.5,4,6.1,w
+Southampton-Chelsea,2.85,3.2,2.5,l
+Stoke-Aston Villa,1.65,3.6,5.1,w
+Watford-Bournemouth,2.2,3.2,3.2,d
+West Brom-Crystal Palace,2.5,3.2,2.75,w
+West Ham-Sunderland,1.85,3.45,4,w
+Tottenham-Swansea,1.45,4,7,w
+Man United-Arsenal,2.7,3.1,2.6,w
+Aston Villa-Everton,3.8,3.45,1.9,l
+Bournemouth-Southampton,2.75,3.2,2.5,w
+Leicester-West Brom,1.7,3.6,4.7,d
+Norwich-Chelsea,5.1,3.6,1.65,l
+Sunderland-Crystal Palace,2.5,3.3,2.65,d
+Arsenal-Swansea,1.35,4.8,7.6,l
+Liverpool-Man City,2.6,3.2,2.6,w
+Man United-Watford,1.65,3.6,5.1,w
+Stoke-Newcastle,1.9,3.45,3.8,w
+West Ham-Tottenham,3.6,3.3,2,w
+Chelsea-Stoke,1.5,4,6.1,d
+Everton-West Ham,1.8,3.5,4.2,l
+Man City-Aston Villa,1.2,5.8,13,w
+Newcastle-Bournemouth,2.6,3.1,2.7,l
+Southampton-Sunderland,1.6,3.7,5.4,d
+Swansea-Norwich,1.9,3.45,3.8,w
+Tottenham-Arsenal,2.5,3.2,2.75,d
+Watford-Leicester,3,3.2,2.3,l
+Crystal Palace-Liverpool,3.3,3.3,2.1,l
+West Brom-Man United,3.8,3.45,1.9,w
+Bournemouth-Swansea,2,3.3,3.6,w
+Norwich-Man City,5.4,3.7,1.6,d
+Stoke-Southampton,2.65,3.1,2.65,l
+Aston Villa-Tottenham,6.1,4,1.5,l
+Leicester-Newcastle,1.65,3.6,5.1,w
+Chelsea-West Ham,1.7,3.7,4.5,d
+Crystal Palace-Leicester,3,3.2,2.3,l
+Everton-Arsenal,2.6,3.2,2.6,l
+Swansea-Aston Villa,1.55,4,5.5,w
+Watford-Stoke,2.4,3.2,2.85,l
+West Brom-Norwich,2.1,3.3,3.3,l
+Man City-Man United,1.8,3.5,4.2,l
+Newcastle-Sunderland,2.1,3.3,3.3,d
+Southampton-Liverpool,2.6,3.2,2.6,w
+Tottenham-Bournemouth,1.5,4,6.1,w
+Arsenal-Watford,1.33,4.8,8.3,w
+Aston Villa-Chelsea,6.1,4,1.5,l
+Bournemouth-Man City,3.6,3.3,2,l
+Liverpool-Tottenham,2.4,3.3,2.75,d
+Norwich-Newcastle,2.2,3.2,3.2,w
+Stoke-Swansea,2.2,3.2,3.2,d
+Sunderland-West Brom,2.1,3.3,3.3,d
+West Ham-Crystal Palace,2,3.3,3.6,d
+Leicester-Southampton,2.2,3.3,3.1,w
+Man United-Everton,1.9,3.45,3.8,w
+Aston Villa-Bournemouth,3.3,3.3,2.1,l
+Crystal Palace-Norwich,2.05,3.3,3.5,w
+Man City-West Brom,1.37,4.6,7.5,w
+Southampton-Newcastle,1.6,3.9,5,w
+Swansea-Chelsea,3.5,3.3,2.05,w
+Watford-Everton,2.95,3.1,2.4,d
+West Ham-Arsenal,3.6,3.3,2,d
+Liverpool-Stoke,1.65,3.6,5.1,w
+Sunderland-Leicester,3.3,3.3,2.1,l
+Tottenham-Man United,2.1,3.3,3.3,w
+Crystal Palace-Everton,2.95,3.1,2.4,d
+Chelsea-Man City,2.6,3.2,2.6,l
+Everton-Southampton,2.5,3.3,2.65,d
+Man United-Aston Villa,1.2,5.8,13,w
+Newcastle-Swansea,2.3,3.3,2.9,w
+Norwich-Sunderland,2.3,3.2,3,l
+West Brom-Watford,2.3,3.1,3.1,l
+Arsenal-Crystal Palace,1.3,5,9,d
+Bournemouth-Liverpool,3.3,3.3,2.1,l
+Leicester-West Ham,2,3.3,3.6,d
+Stoke-Tottenham,4,3.45,1.85,l
+Newcastle-Man City,5.4,3.7,1.6,d
+Liverpool-Everton,1.75,3.5,4.5,w
+Man United-Crystal Palace,1.55,4,5.5,w
+West Ham-Watford,1.65,3.6,5.1,w
+Arsenal-West Brom,1.25,5.5,10.3,w
+Aston Villa-Southampton,6.1,4,1.5,l
+Bournemouth-Chelsea,2.65,3.3,2.5,l
+Liverpool-Newcastle,1.5,4,6.1,d
+Man City-Stoke,1.3,5,9,w
+Leicester-Swansea,1.7,3.6,4.7,w
+Sunderland-Arsenal,4.3,3.65,1.75,d
+Tottenham-West Brom,1.25,5.5,10.3,d
+Arsenal-Norwich,1.22,5.5,12,w
+Everton-Bournemouth,1.9,3.45,3.8,w
+Newcastle-Crystal Palace,1.9,3.45,3.8,w
+Stoke-Sunderland,2.6,3.2,2.6,d
+Watford-Aston Villa,1.6,3.9,5,w
+West Brom-West Ham,3.1,3.3,2.2,l
+Man United-Leicester,1.9,3.45,3.8,d
+Southampton-Man City,2.65,3.3,2.5,w
+Swansea-Liverpool,3.1,3.3,2.2,w
+Chelsea-Tottenham,2.6,3.2,2.6,d
+Aston Villa-Newcastle,5,3.9,1.6,d
+Bournemouth-West Brom,1.9,3.15,4.2,d
+Crystal Palace-Stoke,1.85,3.45,4,w
+Leicester-Everton,1.9,3.45,3.8,w
+Norwich-Man United,3.7,3.5,1.9,l
+Sunderland-Chelsea,2.6,3.2,2.6,w
+West Ham-Swansea,1.47,4,6.6,l
+Liverpool-Watford,1.4,4.4,7.3,w
+Man City-Arsenal,2.4,3.2,2.85,d
+Tottenham-Southampton,1.9,3.45,3.8,l
+West Ham-Man United,3,3.2,2.3,w
+Liverpool-Chelsea,1.9,3.45,3.8,d
+Norwich-Watford,1.8,3.6,4,w
+Sunderland-Everton,1.55,4,5.4,w
+Arsenal-Aston Villa,1.17,6.5,14,w
+Chelsea-Leicester,2.1,3.3,3.3,d
+Everton-Norwich,1.85,3.45,4,w
+Newcastle-Tottenham,4.5,3.5,1.75,w
+Southampton-Crystal Palace,1.4,4.4,7.3,w
+Stoke-West Ham,2.9,3.3,2.3,w
+Swansea-Man City,7,4,1.45,d
+Watford-Sunderland,2.2,3.3,3.1,d
+West Brom-Liverpool,2.5,3.4,2.6,d
+Man United-Bournemouth,1.7,3.7,4.5,w
+Arsenal-Crystal Palace,1.25,6,13,w
+Leicester-Everton,3.25,3.4,2.25,d
+Man United-Swansea,1.36,5,10,l
+QPR-Hull,2.4,3.25,3.1,l
+Stoke-Aston Villa,1.95,3.4,4.2,l
+West Brom-Sunderland,2.3,3.3,3.3,d
+West Ham-Tottenham,3.6,3.4,2.1,l
+Liverpool-Southampton,1.36,5,9,w
+Newcastle-Man City,5,4.2,1.66,l
+Burnley-Chelsea,9,4.8,1.4,l
+Aston Villa-Newcastle,2.5,3.3,2.87,d
+Chelsea-Leicester,1.22,6,13,w
+Crystal Palace-West Ham,2.5,3.1,3,l
+Everton-Arsenal,2.75,3.25,2.7,d
+Southampton-West Brom,1.85,3.5,4.33,d
+Swansea-Burnley,1.66,3.75,5,w
+Hull-Stoke,2.4,3.2,3.2,d
+Sunderland-Man United,4.5,3.6,1.8,d
+Tottenham-QPR,1.44,4.33,7.5,w
+Man City-Liverpool,1.85,3.75,4.2,w
+Burnley-Man United,5.5,4,1.61,d
+Everton-Chelsea,3.5,3.4,2.2,l
+Man City-Stoke,1.18,7.5,17,l
+Newcastle-Crystal Palace,1.75,3.6,5,d
+QPR-Sunderland,2.5,3.25,3,w
+Swansea-West Brom,1.85,3.6,4.5,w
+West Ham-Southampton,2.75,3.25,2.75,l
+Aston Villa-Hull,2.25,3.2,3.6,w
+Leicester-Arsenal,4.5,3.75,1.83,d
+Tottenham-Liverpool,2.7,3.4,2.7,l
+Arsenal-Man City,2.87,3.5,2.5,d
+Chelsea-Swansea,1.28,5.5,12,w
+Crystal Palace-Burnley,2.1,3.3,3.8,d
+Liverpool-Aston Villa,1.3,5.5,11,l
+Southampton-Newcastle,1.83,3.6,4.5,w
+Stoke-Leicester,2.05,3.3,4,l
+Sunderland-Tottenham,3.6,3.5,2.1,d
+West Brom-Everton,3.6,3.4,2.1,l
+Man United-QPR,1.3,5.5,11,w
+Hull-West Ham,2.15,3.3,3.6,d
+Aston Villa-Arsenal,4.5,3.75,1.8,l
+Burnley-Sunderland,2.55,3.2,2.9,d
+Newcastle-Hull,2.15,3.4,3.6,d
+QPR-Stoke,2.7,3.2,2.8,d
+Swansea-Southampton,2.37,3.4,3,l
+West Ham-Liverpool,4.33,3.8,1.8,w
+Everton-Crystal Palace,1.44,4.5,7,l
+Leicester-Man United,5,4,1.66,w
+Man City-Chelsea,2.37,3.4,3,d
+Tottenham-West Brom,1.53,4.33,6,l
+Arsenal-Tottenham,1.8,3.8,4.5,d
+Chelsea-Aston Villa,1.22,6.5,16,w
+Crystal Palace-Leicester,2.5,3.4,2.87,w
+Hull-Man City,6,4.2,1.57,l
+Liverpool-Everton,1.85,3.8,4.2,d
+Man United-West Ham,1.36,5.2,8,w
+Southampton-QPR,1.47,4.33,7,w
+Sunderland-Swansea,2.6,3.25,2.75,d
+West Brom-Burnley,2,3.4,4,w
+Stoke-Newcastle,2.15,3.3,3.6,w
+Aston Villa-Man City,6.5,4.33,1.5,l
+Hull-Crystal Palace,2.05,3.4,4,w
+Leicester-Burnley,1.8,3.6,5,d
+Liverpool-West Brom,1.45,4.75,7,w
+Sunderland-Stoke,2.45,3.2,3.1,w
+Swansea-Newcastle,1.9,3.5,4.33,d
+Chelsea-Arsenal,1.66,4,5,w
+Man United-Everton,1.66,4,5.25,w
+Tottenham-Southampton,2.1,3.4,3.6,w
+West Ham-QPR,1.9,3.5,4.33,w
+Arsenal-Hull,1.44,4.5,8,d
+Burnley-West Ham,2.75,3.3,2.75,l
+Crystal Palace-Chelsea,8.5,4.75,1.4,l
+Everton-Aston Villa,1.61,4,5.5,w
+Man City-Tottenham,1.5,4.5,6.5,w
+Newcastle-Leicester,2.15,3.4,3.5,w
+Southampton-Sunderland,1.61,3.8,6,w
+QPR-Liverpool,5.5,4,1.61,l
+Stoke-Swansea,2.37,3.3,3.1,w
+West Brom-Man United,5,4,1.7,d
+Liverpool-Hull,1.44,4.5,7.5,d
+Southampton-Stoke,1.6,3.8,6,w
+Sunderland-Arsenal,5,3.75,1.7,l
+Swansea-Leicester,1.95,3.5,4,w
+West Brom-Crystal Palace,1.9,3.4,4,d
+West Ham-Man City,5.5,4.33,1.55,w
+Burnley-Everton,4.33,3.6,1.83,l
+Man United-Chelsea,2.8,3.4,2.4,d
+Tottenham-Newcastle,1.7,3.8,5,l
+QPR-Aston Villa,2.4,3.2,3,w
+Arsenal-Burnley,1.25,6,13,w
+Chelsea-QPR,1.18,7.5,19,w
+Everton-Swansea,1.75,3.8,5,d
+Hull-Southampton,3.8,3.5,2.05,l
+Leicester-West Brom,2.25,3.4,3.4,l
+Newcastle-Liverpool,3.75,3.6,2.05,w
+Stoke-West Ham,2.4,3.4,3.1,d
+Aston Villa-Tottenham,3.6,3.5,2.1,l
+Man City-Man United,1.95,3.75,3.8,w
+Crystal Palace-Sunderland,2.15,3.4,3.6,l
+Burnley-Hull,2.5,3.3,2.9,w
+Liverpool-Chelsea,3.25,3.4,2.3,l
+Man United-Crystal Palace,1.33,5.5,9.5,w
+QPR-Man City,6,4.33,1.53,d
+Southampton-Leicester,1.44,4.5,7.5,w
+West Ham-Aston Villa,1.75,3.6,5,d
+Sunderland-Everton,3.6,3.5,2.05,d
+Swansea-Arsenal,3.6,3.5,2.05,w
+Tottenham-Stoke,1.66,3.75,5.5,l
+West Brom-Newcastle,2.3,3.4,3.1,l
+Arsenal-Man United,2.2,3.4,3.4,l
+Chelsea-West Brom,1.22,6.5,15,w
+Everton-West Ham,1.83,3.75,4.33,w
+Leicester-Sunderland,2.1,3.4,3.6,d
+Man City-Swansea,1.4,5,7.5,w
+Newcastle-QPR,1.8,3.6,4.5,w
+Stoke-Burnley,1.73,3.75,5,l
+Crystal Palace-Liverpool,4.2,3.6,1.9,w
+Hull-Tottenham,3.4,3.4,2.2,l
+Aston Villa-Southampton,4.5,3.5,1.8,d
+Burnley-Aston Villa,2.2,3.25,3.3,d
+Liverpool-Stoke,1.66,4,5,w
+Man United-Hull,1.28,5.5,10,w
+QPR-Leicester,2.25,3.4,3.2,w
+Sunderland-Chelsea,8,4.33,1.4,d
+Swansea-Crystal Palace,1.75,3.5,4.8,d
+West Brom-Arsenal,4.2,3.6,1.85,l
+West Ham-Newcastle,2.15,3.4,3.4,w
+Southampton-Man City,3.1,3.5,2.3,l
+Tottenham-Everton,2.3,3.5,3.2,w
+Burnley-Newcastle,2.8,3.25,2.62,d
+Crystal Palace-Aston Villa,2.15,3.3,3.75,l
+Leicester-Liverpool,3.75,3.6,2.05,l
+Man United-Stoke,1.44,4.5,7.5,w
+Swansea-QPR,1.75,3.75,5,w
+West Brom-West Ham,2.4,3.3,3,l
+Arsenal-Southampton,1.8,3.6,4.5,w
+Chelsea-Tottenham,1.4,4.75,8,w
+Everton-Hull,1.55,4,6,d
+Sunderland-Man City,6,4.33,1.53,l
+Hull-West Brom,2.37,3.3,3.2,d
+Liverpool-Sunderland,1.53,4.2,6.5,d
+Man City-Everton,1.53,4.5,6,w
+Newcastle-Chelsea,7,4,1.55,w
+QPR-Burnley,2.1,3.4,3.8,w
+Stoke-Arsenal,4,3.5,2,w
+Tottenham-Crystal Palace,1.61,4,5.5,d
+Aston Villa-Leicester,2.3,3.3,3.3,w
+West Ham-Swansea,2.37,3.3,3.1,w
+Southampton-Man United,2.8,3.4,2.5,l
+Arsenal-Newcastle,1.45,4.5,7,w
+Burnley-Southampton,5,3.5,1.8,w
+Chelsea-Hull,1.16,7.5,19,w
+Crystal Palace-Stoke,2.5,3.2,3,d
+Leicester-Man City,6.5,4.5,1.5,l
+Sunderland-West Ham,2.8,3.3,2.6,d
+West Brom-Aston Villa,2.15,3.3,3.5,w
+Man United-Liverpool,1.8,3.8,4.33,w
+Swansea-Tottenham,2.5,3.4,2.8,l
+Everton-QPR,1.44,4.5,7.5,w
+Aston Villa-Man United,6,4,1.6,d
+Hull-Swansea,2.87,3.2,2.6,l
+Man City-Crystal Palace,1.3,5.5,10,w
+QPR-West Brom,2.3,3.3,3.2,w
+Southampton-Everton,2.45,3.3,3,w
+Tottenham-Burnley,1.53,4.2,6.5,w
+West Ham-Leicester,1.7,3.75,5.5,w
+Liverpool-Arsenal,2.8,3.4,2.5,d
+Newcastle-Sunderland,2,3.4,4,l
+Stoke-Chelsea,6,4,1.57,l
+Arsenal-QPR,1.29,5.5,11,w
+Burnley-Liverpool,4.5,3.6,1.83,l
+Chelsea-West Ham,1.33,5.25,9,w
+Crystal Palace-Southampton,3.5,3.3,2.2,l
+Everton-Stoke,1.75,3.6,5,l
+Leicester-Tottenham,3.75,3.5,2.05,l
+Man United-Newcastle,1.4,4.75,8,w
+Sunderland-Hull,2.05,3.3,4,l
+Swansea-Aston Villa,1.75,3.5,5,w
+West Brom-Man City,6.5,4,1.53,l
+Aston Villa-Sunderland,2.3,3.2,3.2,d
+Hull-Leicester,2.2,3.25,3.3,l
+Man City-Burnley,1.18,7,15,d
+Newcastle-Everton,2.6,3.4,2.6,w
+QPR-Crystal Palace,2.25,3.3,3.2,d
+Southampton-Chelsea,4.5,3.75,1.8,d
+Stoke-West Brom,1.83,3.5,4.33,w
+Tottenham-Man United,3,3.5,2.25,d
+West Ham-Arsenal,3.4,3.6,2.05,l
+Liverpool-Swansea,1.67,3.8,5,w
+Aston Villa-Crystal Palace,2.38,3.25,3.3,d
+Hull-Everton,3.4,3.25,2.3,w
+Liverpool-Leicester,1.44,4.5,8,d
+Man City-Sunderland,1.25,6,13,w
+Newcastle-Burnley,1.75,3.75,5,d
+QPR-Swansea,3,3.3,2.5,d
+Southampton-Arsenal,2.88,3.4,2.5,w
+Stoke-Man United,4,3.5,1.95,d
+Tottenham-Chelsea,4.5,3.6,1.8,w
+West Ham-West Brom,1.83,3.6,4.5,d
+Burnley-QPR,2.2,3.3,3.4,w
+Chelsea-Newcastle,1.2,6.5,17,w
+Crystal Palace-Tottenham,3.6,3.4,2.15,w
+Everton-Man City,4.33,3.75,1.85,d
+Leicester-Aston Villa,2.2,3.25,3.5,w
+Sunderland-Liverpool,4,3.5,1.95,l
+Swansea-West Ham,2.3,3.4,3.2,d
+West Brom-Hull,2.05,3.25,4,w
+Arsenal-Stoke,1.5,4.33,7,w
+Man United-Southampton,1.83,3.6,4.5,l
+Aston Villa-Liverpool,4.5,3.5,1.85,l
+Burnley-Crystal Palace,2.4,3.2,3.2,l
+Leicester-Stoke,2.62,3.25,2.8,l
+Newcastle-Southampton,3.2,3.4,2.3,l
+QPR-Man United,5.25,4,1.66,l
+Swansea-Chelsea,6.5,4,1.57,l
+Tottenham-Sunderland,1.61,4,5.5,w
+Man City-Arsenal,1.8,3.8,4.5,l
+West Ham-Hull,1.7,3.75,5.5,w
+Everton-West Brom,1.75,3.6,5,d
+Chelsea-Man City,2.15,3.4,3.6,d
+Crystal Palace-Everton,2.75,3.25,2.62,l
+Hull-Newcastle,2.62,3.1,2.9,l
+Liverpool-West Ham,1.7,4,5,w
+Man United-Leicester,1.36,5,9,w
+Stoke-QPR,1.66,3.75,5.5,w
+Sunderland-Burnley,2.15,3.25,3.75,w
+West Brom-Tottenham,2.9,3.25,2.5,l
+Arsenal-Aston Villa,1.25,6,13,w
+Southampton-Swansea,1.61,3.75,6,l
+Aston Villa-Chelsea,10.5,4.75,1.36,l
+Everton-Liverpool,3.2,3.4,2.3,d
+Leicester-Crystal Palace,2.37,3.3,3.25,l
+Man City-Hull,1.2,7,17,d
+QPR-Southampton,4.33,3.5,1.9,l
+Swansea-Sunderland,1.95,3.4,4.33,d
+Tottenham-Arsenal,3.1,3.5,2.3,w
+Burnley-West Brom,2.62,3.1,3,d
+Newcastle-Stoke,2.3,3.3,3.4,d
+West Ham-Man United,4,3.5,1.95,d
+Arsenal-Leicester,1.3,5.5,10.5,w
+Hull-Aston Villa,2.3,3.1,3.5,w
+Liverpool-Tottenham,1.91,3.75,4,w
+Sunderland-QPR,1.87,3.5,4.5,l
+Chelsea-Everton,1.33,5,9,w
+Crystal Palace-Newcastle,2.38,3.2,3.2,d
+Man United-Burnley,1.3,5.5,10,w
+Southampton-West Ham,1.75,3.75,4.6,d
+Stoke-Man City,5,3.75,1.7,l
+West Brom-Swansea,2.5,3.2,2.9,w
+Aston Villa-Stoke,2.6,3.2,2.9,l
+Chelsea-Burnley,1.18,7,17,d
+Crystal Palace-Arsenal,5,3.75,1.75,l
+Hull-QPR,2.05,3.3,4,w
+Man City-Newcastle,1.3,5.5,11,w
+Sunderland-West Brom,2.5,3.2,3,d
+Swansea-Man United,4,3.5,2,w
+Everton-Leicester,1.83,3.6,4.5,d
+Southampton-Liverpool,2.45,3.3,3,l
+Tottenham-West Ham,1.83,3.6,4.33,d
+Burnley-Swansea,2.7,3.3,2.7,l
+Man United-Sunderland,1.4,4.5,9.5,w
+Newcastle-Aston Villa,1.95,3.4,4.33,w
+Stoke-Hull,1.9,3.4,4.5,w
+West Brom-Southampton,3.3,3.2,2.37,w
+West Ham-Crystal Palace,1.95,3.5,3.9,l
+Arsenal-Everton,1.55,4.33,6.5,w
+Liverpool-Man City,3.1,3.5,2.3,w
+Aston Villa-West Brom,2.75,3.1,2.87,w
+Hull-Sunderland,2.15,3.3,3.8,d
+Southampton-Crystal Palace,1.7,3.75,5.5,w
+Liverpool-Burnley,1.36,5,8.5,w
+Man City-Leicester,1.25,6,12,w
+Newcastle-Man United,3.8,3.5,2,l
+QPR-Arsenal,6,4.2,1.55,l
+Stoke-Everton,2.4,3.3,3.1,w
+Tottenham-Swansea,1.75,3.8,4.8,w
+West Ham-Chelsea,6,4,1.61,l
+QPR-Tottenham,4.5,3.6,1.8,l
+Arsenal-West Ham,1.4,5,8,w
+Burnley-Man City,7,4.5,1.45,w
+Crystal Palace-QPR,1.83,3.6,4.5,w
+Leicester-Hull,2.25,3.2,3.4,d
+Sunderland-Aston Villa,2.4,3.1,3.25,l
+West Brom-Stoke,2.4,3.2,3.2,w
+Chelsea-Southampton,1.57,4,6.5,d
+Everton-Newcastle,1.83,3.5,4.5,w
+Man United-Tottenham,1.9,3.75,4,w
+Swansea-Liverpool,3.75,3.4,2.05,l
+Aston Villa-Swansea,2.4,3.25,3,l
+Man City-West Brom,1.3,5.5,10,w
+Newcastle-Arsenal,5.25,4,1.65,l
+Southampton-Burnley,1.44,4.33,7.5,w
+Stoke-Crystal Palace,2.1,3.3,3.75,l
+Tottenham-Leicester,1.53,4.2,6,w
+West Ham-Sunderland,1.85,3.5,4.33,w
+Hull-Chelsea,7.5,4.33,1.44,l
+Liverpool-Man United,2.1,3.4,3.6,l
+QPR-Everton,3.3,3.4,2.2,l
+Arsenal-Liverpool,1.85,3.75,4.2,w
+Chelsea-Stoke,1.29,5.5,12,w
+Everton-Southampton,2.6,3.2,2.88,w
+Leicester-West Ham,2.38,3.3,3.1,w
+Man United-Aston Villa,1.3,5,11,w
+Swansea-Hull,1.83,3.5,4.5,w
+West Brom-QPR,1.75,3.5,5,l
+Burnley-Tottenham,3.6,3.5,2.05,d
+Sunderland-Newcastle,2.4,3.25,3.1,w
+Crystal Palace-Man City,5,4,1.67,w
+Aston Villa-QPR,2.1,3.4,3.75,d
+Burnley-Arsenal,6,4.2,1.57,l
+Southampton-Hull,1.5,4,8,w
+Sunderland-Crystal Palace,2.75,3.1,2.75,l
+Swansea-Everton,2.4,3.3,3.1,d
+Tottenham-Aston Villa,1.62,4,5.75,l
+West Brom-Leicester,2.2,3.4,3.5,l
+West Ham-Stoke,2.2,3.4,3.4,d
+Man United-Man City,2.6,3.4,2.8,w
+QPR-Chelsea,8.5,4.8,1.4,l
+Liverpool-Newcastle,1.44,4.5,8,w
+Chelsea-Man United,2,3.4,4,w
+Crystal Palace-West Brom,1.95,3.5,4,l
+Everton-Burnley,1.73,3.75,5,w
+Leicester-Swansea,2.2,3.4,3.4,w
+Stoke-Southampton,3.2,3.25,2.38,w
+Man City-West Ham,1.29,6,11,w
+Newcastle-Tottenham,3.2,3.4,2.3,l
+Burnley-Leicester,2.45,3.3,3,l
+Crystal Palace-Hull,2,3.4,4.2,l
+Man City-Aston Villa,1.3,5.75,10,w
+Newcastle-Swansea,2.45,3.3,3,l
+QPR-West Ham,2.38,3.4,3.2,d
+Southampton-Tottenham,2.1,3.4,3.75,d
+Stoke-Sunderland,1.9,3.4,4.5,d
+West Brom-Liverpool,4.1,3.6,1.95,d
+Arsenal-Chelsea,2.45,3.25,3.1,d
+Everton-Man United,3.5,3.5,2.15,w
+Hull-Liverpool,4,3.4,2,w
+Leicester-Chelsea,5.25,4,1.65,l
+Aston Villa-Everton,2.7,3.3,2.7,w
+Leicester-Newcastle,1.95,3.6,3.8,w
+Liverpool-QPR,1.4,5,8,w
+Man United-West Brom,1.36,5,9,l
+Sunderland-Southampton,4,3.3,2.05,w
+Swansea-Stoke,2.15,3.3,3.5,w
+West Ham-Burnley,2.15,3.4,3.5,w
+Chelsea-Crystal Palace,1.33,5,10,w
+Tottenham-Man City,3.5,3.75,2.05,l
+Hull-Arsenal,5.25,3.8,1.67,l
+Aston Villa-West Ham,1.95,3.6,4,w
+Crystal Palace-Man United,4.5,3.6,1.85,l
+Everton-Sunderland,1.8,3.6,4.8,l
+Hull-Burnley,1.95,3.4,4.2,l
+Leicester-Southampton,2.62,3.4,2.75,w
+Newcastle-West Brom,2.45,3.3,3,d
+Stoke-Tottenham,2.9,3.4,2.5,w
+Chelsea-Liverpool,2,3.4,3.9,d
+Man City-QPR,1.22,7,13,w
+Arsenal-Swansea,1.33,5.25,9.5,l
+Burnley-Stoke,2.62,3.3,2.9,d
+Liverpool-Crystal Palace,1.5,4.5,6.5,l
+QPR-Newcastle,2.9,3.5,2.5,w
+Southampton-Aston Villa,1.75,3.75,5,w
+Sunderland-Leicester,2.75,3.3,2.75,d
+Tottenham-Hull,1.8,3.75,4.75,w
+West Ham-Everton,2.8,3.4,2.62,l
+Man United-Arsenal,2.4,3.5,2.9,d
+Swansea-Man City,4.5,4,1.75,l
+West Brom-Chelsea,4,3.5,1.95,w
+Arsenal-Sunderland,1.3,5.5,11,d
+Arsenal-West Brom,1.36,5,9,w
+Aston Villa-Burnley,2.1,3.4,3.6,l
+Chelsea-Sunderland,1.36,5,9,w
+Crystal Palace-Swansea,2.2,3.5,3.2,w
+Everton-Tottenham,2.4,3.4,3,l
+Hull-Man United,3.25,3.5,2.2,d
+Leicester-QPR,1.62,4,5.5,w
+Man City-Southampton,1.57,4.2,6,w
+Newcastle-West Ham,1.8,3.75,4.5,w
+Stoke-Liverpool,3.3,3.5,2.2,w
