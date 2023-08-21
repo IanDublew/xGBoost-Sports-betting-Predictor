@@ -1,4 +1,4 @@
-TEAM,W,d,L,RESULTS
+TEAM,W,D,L,RESULTS
 Crystal Palace - Arsenal,4.58,3.57,1.84,l
 Tottenham - Southampton,1.36,5.2,8.73,w
 Newcastle - Nottingham,1.58,4.03,6.17,w
@@ -3223,3 +3223,2087 @@ Leicester-QPR,1.62,4,5.5,w
 Man City-Southampton,1.57,4.2,6,w
 Newcastle-West Ham,1.8,3.75,4.5,w
 Stoke-Liverpool,3.3,3.5,2.2,w
+Arsenal  vs Aston Villa,1.44,4.75,8,l
+Liverpool  vs Stoke,1.4,5,9.5,w
+Norwich  vs Everton,3.2,3.4,2.4,d
+Sunderland  vs Fulham,2.3,3.4,3.4,l
+Swansea  vs Man United,4.2,3.5,2,l
+West Brom  vs Southampton,2.4,3.4,3.2,l
+West Ham  vs Cardiff,2,3.6,4,w
+Chelsea  vs Hull,1.2,7,21,w
+Crystal Palace  vs Tottenham,4.75,3.75,1.83,l
+Man City  vs Newcastle,1.33,5.5,11,w
+Chelsea  vs Aston Villa,1.29,5.5,10,w
+Aston Villa  vs Liverpool,4,3.75,1.95,l
+Everton  vs West Brom,1.57,4.33,6.5,d
+Fulham  vs Arsenal,3.8,3.5,2.1,l
+Hull  vs Norwich,2.45,3.4,3.1,w
+Newcastle  vs West Ham,2.3,3.4,3.4,d
+Southampton  vs Sunderland,1.73,3.8,5.5,d
+Stoke  vs Crystal Palace,1.83,3.6,5,w
+Cardiff  vs Man City,8.5,4.75,1.44,w
+Tottenham  vs Swansea,1.62,4,6.5,w
+Man United  vs Chelsea,2.45,3.4,3.1,d
+Cardiff  vs Everton,3.25,3.4,2.38,d
+Crystal Palace  vs Sunderland,2.6,3.3,3,w
+Man City  vs Hull,1.17,8.5,19,w
+Newcastle  vs Fulham,2.15,3.4,3.75,w
+Norwich  vs Southampton,3,3.3,2.55,w
+West Ham  vs Stoke,2,3.4,4.33,l
+Arsenal  vs Tottenham,2.1,3.7,3.6,w
+Liverpool  vs Man United,2.63,3.4,2.88,w
+West Brom  vs Swansea,2.7,3.4,2.8,l
+Aston Villa  vs Newcastle,2.15,3.4,3.8,l
+Everton  vs Chelsea,3.4,3.3,2.35,w
+Fulham  vs West Brom,2.15,3.5,3.6,d
+Hull  vs Cardiff,2.45,3.25,3.25,d
+Man United  vs Crystal Palace,1.22,7,16,w
+Stoke  vs Man City,6,4,1.65,d
+Sunderland  vs Arsenal,6,3.9,1.67,l
+Tottenham  vs Norwich,1.45,4.75,8,w
+Southampton  vs West Ham,1.85,3.6,4.75,d
+Swansea  vs Liverpool,3.5,3.5,2.2,d
+Chelsea  vs Fulham,1.3,5.75,12,w
+Liverpool  vs Southampton,1.6,4,6.5,l
+Newcastle  vs Hull,1.85,3.5,5,l
+Norwich  vs Aston Villa,2.4,3.4,3.2,l
+West Brom  vs Sunderland,2.05,3.4,4.2,w
+West Ham  vs Everton,3.3,3.3,2.4,l
+Arsenal  vs Stoke,1.36,5.25,10,w
+Cardiff  vs Tottenham,4.5,3.6,1.91,l
+Crystal Palace  vs Swansea,3.5,3.4,2.25,l
+Man City  vs Man United,2.2,3.4,3.6,w
+Aston Villa  vs Man City,6.5,4.2,1.57,w
+Fulham  vs Cardiff,2.1,3.4,3.9,l
+Hull  vs West Ham,2.38,3.3,3.3,w
+Man United  vs West Brom,1.3,5.75,12,l
+Southampton  vs Crystal Palace,1.45,4.5,8.5,w
+Swansea  vs Arsenal,3.2,3.4,2.38,l
+Tottenham  vs Chelsea,2.7,3.3,2.88,d
+Stoke  vs Norwich,1.95,3.4,4.5,l
+Sunderland  vs Liverpool,5.5,3.9,1.7,l
+Everton  vs Newcastle,1.65,4,6,w
+Cardiff  vs Newcastle,2.45,3.4,3.1,l
+Fulham  vs Stoke,2.4,3.3,3.3,w
+Hull  vs Aston Villa,2.45,3.3,3.2,d
+Liverpool  vs Crystal Palace,1.2,7.5,17,w
+Man City  vs Everton,1.67,4.2,5.5,w
+Sunderland  vs Man United,6,4,1.65,l
+Norwich  vs Chelsea,6.5,4,1.62,l
+Southampton  vs Swansea,2.1,3.5,3.8,w
+Tottenham  vs West Ham,1.44,4.75,8.5,l
+West Brom  vs Arsenal,4.9,4,1.75,d
+Arsenal  vs Norwich,1.29,6,12,w
+Chelsea  vs Cardiff,1.25,6.5,15,w
+Everton  vs Hull,1.45,4.5,9,w
+Man United  vs Southampton,1.57,4.33,6.5,d
+Newcastle  vs Liverpool,4.5,3.9,1.83,d
+Stoke  vs West Brom,2.3,3.3,3.5,d
+Swansea  vs Sunderland,1.62,4,6.5,w
+West Ham  vs Man City,5.5,3.8,1.73,l
+Aston Villa  vs Tottenham,4,3.5,2.05,l
+Crystal Palace  vs Fulham,2.75,3.3,2.8,l
+Aston Villa  vs Everton,3.4,3.4,2.3,l
+Crystal Palace  vs Arsenal,11,5,1.36,l
+Liverpool  vs West Brom,1.44,4.75,8,w
+Man United  vs Stoke,1.33,5.5,11,w
+Norwich  vs Cardiff,2.2,3.4,3.6,d
+Southampton  vs Fulham,1.62,4,6.5,w
+Chelsea  vs Man City,2.38,3.4,3.2,w
+Sunderland  vs Newcastle,2.9,3.3,2.63,w
+Swansea  vs West Ham,1.75,3.8,5.25,d
+Tottenham  vs Hull,1.44,4.75,8,w
+Arsenal  vs Liverpool,2.3,3.5,3.3,w
+Fulham  vs Man United,6.5,4.2,1.57,l
+Hull  vs Sunderland,2.15,3.4,3.8,w
+Man City  vs Norwich,1.2,7.5,18,w
+Newcastle  vs Chelsea,6,4.2,1.62,w
+Stoke  vs Southampton,3.3,3.3,2.4,d
+West Brom  vs Crystal Palace,1.55,4.2,7,w
+West Ham  vs Aston Villa,2.25,3.5,3.4,d
+Cardiff  vs Swansea,3.4,3.4,2.3,w
+Everton  vs Tottenham,2.5,3.4,3,d
+Aston Villa  vs Cardiff,2,3.5,4.2,w
+Chelsea  vs West Brom,1.29,6,12,d
+Crystal Palace  vs Everton,6.5,4,1.62,d
+Liverpool  vs Fulham,1.25,6.5,15,w
+Norwich  vs West Ham,2.63,3.3,2.9,w
+Southampton  vs Hull,1.62,3.8,7,w
+Man United  vs Arsenal,2.35,3.5,3.2,w
+Sunderland  vs Man City,9,5,1.4,w
+Swansea  vs Stoke,2,3.4,4.33,d
+Tottenham  vs Newcastle,1.57,4.33,6.5,l
+Arsenal  vs Southampton,1.62,4.2,6,w
+Everton  vs Liverpool,3,3.4,2.5,d
+Fulham  vs Swansea,3.3,3.3,2.38,l
+Hull  vs Crystal Palace,1.85,3.5,5,l
+Newcastle  vs Norwich,1.8,3.8,4.75,w
+Stoke  vs Sunderland,2.15,3.3,3.9,w
+West Ham  vs Chelsea,6,4.2,1.62,l
+Cardiff  vs Man United,6,4,1.65,d
+Man City  vs Tottenham,1.7,4,5.5,w
+West Brom  vs Aston Villa,2.15,3.4,3.8,d
+Aston Villa  vs Sunderland,2,3.4,4.33,d
+Cardiff  vs Arsenal,6.5,4,1.62,l
+Everton  vs Stoke,1.62,4,6.25,w
+Newcastle  vs West Brom,2.05,3.5,4,w
+Norwich  vs Crystal Palace,2,3.4,4.33,w
+West Ham  vs Fulham,1.91,3.5,4.6,w
+Chelsea  vs Southampton,1.57,4.2,6.5,w
+Hull  vs Liverpool,6.5,4,1.62,w
+Man City  vs Swansea,1.29,6,13,w
+Tottenham  vs Man United,2.8,3.5,2.63,d
+Crystal Palace  vs West Ham,3.25,3.3,2.4,w
+Arsenal  vs Hull,1.2,7.5,17,w
+Fulham  vs Tottenham,5.8,3.9,1.67,l
+Liverpool  vs Norwich,1.29,6,12,w
+Man United  vs Everton,1.73,3.75,5.5,l
+Southampton  vs Aston Villa,1.7,3.8,5.75,l
+Stoke  vs Cardiff,2.1,3.4,4,d
+Sunderland  vs Chelsea,6.5,4.33,1.55,l
+Swansea  vs Newcastle,2.2,3.5,3.5,w
+West Brom  vs Man City,6,4.2,1.62,l
+Crystal Palace  vs Cardiff,2.8,3.3,2.75,w
+Liverpool  vs West Ham,1.29,6,12,w
+Man United  vs Newcastle,1.53,4.33,7,l
+Southampton  vs Man City,5.25,3.8,1.75,d
+Stoke  vs Chelsea,6.5,4.2,1.57,w
+Sunderland  vs Tottenham,4.5,3.6,1.91,l
+West Brom  vs Norwich,1.8,3.75,5,l
+Arsenal  vs Everton,1.7,3.8,5.75,d
+Fulham  vs Aston Villa,2.75,3.3,2.8,w
+Swansea  vs Hull,1.75,3.75,5.5,d
+Cardiff  vs West Brom,2.63,3.4,2.88,w
+Chelsea  vs Crystal Palace,1.18,8,19,w
+Everton  vs Fulham,1.36,5,10.5,w
+Hull  vs Stoke,2.3,3.3,3.5,d
+Man City  vs Arsenal,1.83,3.75,4.75,w
+Newcastle  vs Southampton,2.4,3.4,3.2,d
+West Ham  vs Sunderland,1.95,3.6,4.33,d
+Aston Villa  vs Man United,5.25,3.8,1.75,l
+Norwich  vs Swansea,2.88,3.3,2.7,d
+Tottenham  vs Liverpool,2.5,3.4,3,l
+Crystal Palace  vs Newcastle,3.25,3.4,2.38,l
+Fulham  vs Man City,9.5,5.25,1.36,l
+Liverpool  vs Cardiff,1.2,7.5,16,w
+Man United  vs West Ham,1.36,5.25,10,w
+Stoke  vs Aston Villa,2.3,3.25,3.5,w
+Sunderland  vs Norwich,2.05,3.5,4,d
+West Brom  vs Hull,1.95,3.5,4.5,d
+Southampton  vs Tottenham,2.55,3.3,3,l
+Swansea  vs Everton,3,3.4,2.5,l
+Arsenal  vs Chelsea,2.38,3.4,3.25,d
+Aston Villa  vs Crystal Palace,1.91,3.5,4.5,l
+Cardiff  vs Southampton,3.3,3.3,2.38,l
+Chelsea  vs Swansea,1.33,5.5,10,w
+Everton  vs Sunderland,1.36,5.25,9.5,l
+Hull  vs Man United,7,4.2,1.55,l
+Man City  vs Liverpool,1.75,4.2,4.6,w
+Newcastle  vs Stoke,1.75,3.8,5.25,w
+Norwich  vs Fulham,2.05,3.5,4,l
+Tottenham  vs West Brom,1.53,4.33,7,d
+West Ham  vs Arsenal,6.5,4,1.62,l
+Aston Villa  vs Swansea,3,3.3,2.55,d
+Cardiff  vs Sunderland,2.38,3.25,3.4,d
+Hull  vs Fulham,2.05,3.4,4.1,w
+Man City  vs Crystal Palace,1.13,9.5,29,w
+Norwich  vs Man United,6.5,4.2,1.57,l
+West Ham  vs West Brom,2.38,3.4,3.25,d
+Chelsea  vs Liverpool,2.2,3.5,3.5,w
+Everton  vs Southampton,1.83,3.7,4.75,w
+Newcastle  vs Arsenal,4,3.7,2,l
+Tottenham  vs Stoke,1.44,4.33,8,w
+Arsenal  vs Cardiff,1.29,6,13,w
+Crystal Palace  vs Norwich,2.38,3.3,3.3,d
+Fulham  vs West Ham,2.5,3.3,3.1,w
+Liverpool  vs Hull,1.3,6,11,w
+Man United  vs Tottenham,1.8,3.8,4.75,l
+Southampton  vs Chelsea,4,3.5,2.05,l
+Stoke  vs Everton,4,3.3,2.1,d
+Sunderland  vs Aston Villa,2.15,3.4,3.75,l
+Swansea  vs Man City,5.75,4.25,1.62,l
+West Brom  vs Newcastle,2.6,3.4,2.88,w
+Cardiff  vs West Ham,2,3.5,4.1,l
+Everton  vs Norwich,1.4,5,9,w
+Fulham  vs Sunderland,2.2,3.3,3.75,l
+Hull  vs Chelsea,6.5,4,1.6,l
+Man United  vs Swansea,1.57,4,7,w
+Southampton  vs West Brom,1.83,3.7,4.75,w
+Tottenham  vs Crystal Palace,1.36,5,10,w
+Newcastle  vs Man City,5.25,4,1.7,l
+Stoke  vs Liverpool,5.75,4,1.67,l
+Aston Villa  vs Arsenal,6,4.2,1.62,l
+Arsenal  vs Fulham,1.22,7,15,w
+Crystal Palace  vs Stoke,2.35,3.2,3.5,w
+Liverpool  vs Aston Villa,1.22,7,15,d
+Man City  vs Cardiff,1.13,11,23,w
+Norwich  vs Hull,2.4,3.3,3.25,w
+Sunderland  vs Southampton,3.2,3.3,2.45,d
+West Ham  vs Newcastle,3,3.4,2.5,l
+Chelsea  vs Man United,1.73,3.8,5.5,w
+Swansea  vs Tottenham,3.25,3.4,2.38,l
+West Brom  vs Everton,3.5,3.4,2.25,d
+Crystal Palace  vs Hull,2.5,3.2,3.2,w
+Liverpool  vs Everton,1.83,3.9,4.5,w
+Man United  vs Cardiff,1.25,6.5,15,w
+Norwich  vs Newcastle,2.7,3.4,2.8,d
+Southampton  vs Arsenal,4.33,3.5,1.95,d
+Swansea  vs Fulham,1.75,3.75,5.25,w
+Aston Villa  vs West Brom,2.6,3.3,3,w
+Chelsea  vs West Ham,1.18,8,19,d
+Sunderland  vs Stoke,2.1,3.4,3.9,w
+Tottenham  vs Man City,3.75,3.75,2.05,l
+Cardiff  vs Norwich,2.3,3.4,3.4,w
+Everton  vs Aston Villa,1.53,4.33,7,w
+Fulham  vs Southampton,3.6,3.4,2.2,l
+Hull  vs Tottenham,4,3.5,2.05,d
+Newcastle  vs Sunderland,1.95,3.5,4.33,l
+Stoke  vs Man United,7,4,1.57,w
+West Ham  vs Swansea,2.9,3.4,2.6,w
+Arsenal  vs Crystal Palace,1.22,7,16,w
+West Brom  vs Liverpool,5.75,4.33,1.62,d
+Man City  vs Chelsea,1.85,3.8,4.5,l
+Aston Villa  vs West Ham,2.1,3.5,3.8,l
+Chelsea  vs Newcastle,1.25,6.25,15,w
+Crystal Palace  vs West Brom,2.6,3.3,3,w
+Liverpool  vs Arsenal,2.2,3.6,3.4,w
+Norwich  vs Man City,9,5.5,1.36,d
+Southampton  vs Stoke,1.55,4,7.5,d
+Sunderland  vs Hull,2.15,3.4,3.8,l
+Swansea  vs Cardiff,1.85,3.6,4.75,w
+Man United  vs Fulham,1.2,7,19,d
+Tottenham  vs Everton,2.1,3.5,3.75,w
+Cardiff  vs Aston Villa,2.5,3.4,3,d
+Hull  vs Southampton,3,3.25,2.6,l
+West Brom  vs Chelsea,7.5,4.5,1.5,d
+West Ham  vs Norwich,2.05,3.5,4,w
+Arsenal  vs Man United,2.15,3.5,3.6,d
+Fulham  vs Liverpool,8,5.25,1.4,l
+Newcastle  vs Tottenham,3.3,3.5,2.3,l
+Stoke  vs Swansea,2.7,3.25,2.9,d
+Arsenal  vs Sunderland,1.33,5.5,11,w
+Cardiff  vs Hull,2.75,3.2,2.88,l
+Chelsea  vs Everton,1.57,4,7,w
+Crystal Palace  vs Man United,6.5,4,1.6,l
+Man City  vs Stoke,1.18,8,19,w
+West Brom  vs Fulham,1.8,3.9,4.75,d
+West Ham  vs Southampton,3.2,3.4,2.4,w
+Liverpool  vs Swansea,1.3,5.75,12,w
+Newcastle  vs Aston Villa,2.1,3.4,3.9,w
+Norwich  vs Tottenham,3.8,3.5,2.1,w
+Everton  vs West Ham,1.53,4.2,7.5,w
+Fulham  vs Chelsea,8,4.75,1.45,l
+Hull  vs Newcastle,2.45,3.2,3.3,l
+Southampton  vs Liverpool,3.75,3.75,2.05,l
+Stoke  vs Arsenal,5.5,3.8,1.73,w
+Aston Villa  vs Norwich,2.1,3.4,3.9,w
+Swansea  vs Crystal Palace,1.85,3.5,5,d
+Tottenham  vs Cardiff,1.33,5.25,12,w
+Cardiff  vs Fulham,2.35,3.5,3.2,w
+Chelsea  vs Tottenham,1.57,4,7,w
+Crystal Palace  vs Southampton,3.9,3.3,2.15,l
+Norwich  vs Stoke,2.25,3.3,3.6,d
+West Brom  vs Man United,5,3.6,1.83,l
+Aston Villa  vs Chelsea,7,4.33,1.53,w
+Everton  vs Cardiff,1.36,5,11,w
+Fulham  vs Newcastle,2.9,3.4,2.6,w
+Hull  vs Man City,6.5,4.33,1.57,l
+Southampton  vs Norwich,1.62,4,6.5,w
+Stoke  vs West Ham,2.25,3.3,3.6,w
+Sunderland  vs Crystal Palace,2.15,3.3,3.9,d
+Swansea  vs West Brom,1.95,3.6,4.33,l
+Man United  vs Liverpool,2.5,3.6,2.9,l
+Tottenham  vs Arsenal,3.1,3.4,2.45,l
+Cardiff  vs Liverpool,9.5,5.25,1.36,l
+Chelsea  vs Arsenal,1.85,3.6,4.75,w
+Everton  vs Swansea,1.67,3.9,6,w
+Hull  vs West Brom,2.25,3.3,3.6,w
+Man City  vs Fulham,1.17,9,17,w
+Newcastle  vs Crystal Palace,1.85,3.6,4.75,w
+Norwich  vs Sunderland,2.2,3.3,3.75,w
+West Ham  vs Man United,4.5,3.6,1.91,l
+Aston Villa  vs Stoke,2.2,3.3,3.75,l
+Tottenham  vs Southampton,2.25,3.4,3.5,w
+Arsenal  vs Swansea,1.57,4.2,6.5,d
+Man United  vs Man City,3.5,3.6,2.15,l
+Newcastle  vs Everton,3.5,3.4,2.25,l
+Liverpool  vs Sunderland,1.17,9,19,w
+West Ham  vs Hull,2.4,3.3,3.3,w
+Arsenal  vs Man City,3.6,3.5,2.15,d
+Crystal Palace  vs Chelsea,10,4.75,1.4,w
+Man United  vs Aston Villa,1.45,4.75,8,w
+Southampton  vs Newcastle,1.75,3.8,5.25,w
+Stoke  vs Hull,2.15,3.3,3.9,w
+Swansea  vs Norwich,1.73,3.9,5.25,w
+West Brom  vs Cardiff,1.83,3.75,4.75,d
+Fulham  vs Everton,5,3.75,1.8,l
+Liverpool  vs Tottenham,1.48,4.75,7.5,w
+Sunderland  vs West Ham,2.3,3.3,3.5,l
+Aston Villa  vs Fulham,2.05,3.5,4,l
+Cardiff  vs Crystal Palace,2.45,3.25,3.25,l
+Chelsea  vs Stoke,1.29,6,13,w
+Hull  vs Swansea,2.75,3.3,2.8,w
+Man City  vs Southampton,1.33,5.75,10,w
+Newcastle  vs Man United,4.2,3.7,1.95,l
+Norwich  vs West Brom,2.4,3.3,3.25,l
+Everton  vs Arsenal,2.5,3.4,3,w
+West Ham  vs Liverpool,9,5,1.4,l
+Tottenham  vs Sunderland,1.57,4.2,6.5,w
+Crystal Palace  vs Aston Villa,2.15,3.3,3.9,w
+Fulham  vs Norwich,2.15,3.5,3.6,w
+Southampton  vs Cardiff,1.45,4.75,8,l
+Stoke  vs Newcastle,2.1,3.4,3.9,w
+Sunderland  vs Everton,4.75,3.7,1.83,l
+West Brom  vs Tottenham,3.1,3.6,2.38,d
+Liverpool  vs Man City,2.45,3.7,2.9,w
+Swansea  vs Chelsea,5,3.6,1.83,l
+Arsenal  vs West Ham,1.4,5,9,w
+Everton  vs Crystal Palace,1.4,4.75,10,l
+Man City  vs Sunderland,1.17,9,17,d
+Aston Villa  vs Southampton,3.4,3.4,2.1,d
+Cardiff  vs Stoke,2.38,3.2,3,d
+Chelsea  vs Sunderland,1.18,7,13,l
+Newcastle  vs Swansea,2.63,3.3,2.6,l
+Tottenham  vs Fulham,1.5,4.2,6.5,w
+West Ham  vs Crystal Palace,2.2,3.2,3.4,l
+Everton  vs Man United,2.4,3.4,2.8,w
+Hull  vs Arsenal,4.5,3.6,1.8,l
+Norwich  vs Liverpool,8.5,5,1.33,l
+Man City  vs West Brom,1.2,7,11,w
+Fulham  vs Hull,2.3,3.4,3.4,d
+Man United  vs Norwich,1.36,5.25,9.5,w
+Southampton  vs Everton,2.8,3.5,2.6,w
+Stoke  vs Tottenham,3.2,3.4,2.38,l
+Swansea  vs Aston Villa,1.7,3.75,6,w
+West Brom  vs West Ham,1.91,3.75,4.33,w
+Crystal Palace  vs Man City,7.5,5,1.44,l
+Liverpool  vs Chelsea,1.67,4.2,5.25,l
+Sunderland  vs Cardiff,1.91,3.75,4.33,w
+Arsenal  vs Newcastle,1.29,6,12,w
+Aston Villa  vs Hull,2.5,3.3,3.1,w
+Everton  vs Man City,5,4,1.75,l
+Man United  vs Sunderland,1.36,5.75,8.5,l
+Newcastle  vs Cardiff,2.05,3.6,3.8,w
+Stoke  vs Fulham,2.3,3.6,3.25,w
+Swansea  vs Southampton,2.5,3.4,3,l
+West Ham  vs Tottenham,4.33,3.75,1.91,w
+Arsenal  vs West Brom,1.29,6,13,w
+Chelsea  vs Norwich,1.2,7.5,17,d
+Crystal Palace  vs Liverpool,9,5,1.4,d
+Man United  vs Hull,1.36,5.5,9,w
+Man City  vs Aston Villa,1.14,9.5,21,w
+Sunderland  vs West Brom,2.1,3.2,4.2,w
+Cardiff  vs Chelsea,8,4.75,1.44,l
+Fulham  vs Crystal Palace,2.63,3.5,2.8,d
+Hull  vs Everton,4,3.6,2,l
+Liverpool  vs Newcastle,1.22,7.5,13,w
+Man City  vs West Ham,1.17,9,17,w
+Norwich  vs Arsenal,4.5,3.8,1.85,l
+Southampton  vs Man United,2.63,3.5,2.8,d
+Sunderland  vs Swansea,2.3,3.4,3.4,l
+Tottenham  vs Aston Villa,1.5,4.5,7.5,w
+West Brom  vs Stoke,2.1,3.6,3.75,l
+Arsenal vs Sunderland,1.4,4.5,8.5,d
+Fulham vs Norwich,1.8,3.6,4.5,w
+Newcastle vs Tottenham,2.5,3.4,2.75,w
+QPR vs Swansea,2,3.4,3.8,l
+Reading vs Stoke,2.38,3.25,3.1,d
+West Brom vs Liverpool,4.2,3.5,1.91,w
+West Ham vs Aston Villa,2.2,3.3,3.4,w
+Man City vs Southampton,1.17,7,17,w
+Wigan vs Chelsea,6,3.75,1.62,l
+Everton vs Man United,4.33,3.6,1.83,w
+Chelsea vs Reading,1.25,5.5,13,w
+Aston Villa vs Everton,2.9,3.4,2.4,l
+Chelsea vs Newcastle,1.5,4.33,6.5,w
+Man United vs Fulham,1.29,5.5,11,w
+Norwich vs QPR,2.25,3.4,3.2,d
+Southampton vs Wigan,2.1,3.4,3.5,l
+Swansea vs West Ham,2.1,3.3,3.6,w
+Tottenham vs West Brom,1.5,4.33,6.5,d
+Liverpool vs Man City,3.1,3.4,2.3,d
+Stoke vs Arsenal,3.5,3.4,2.1,d
+Man City vs QPR,1.18,7,15,w
+Swansea vs Sunderland,2.2,3.3,3.4,d
+Tottenham vs Norwich,1.36,5,8.5,d
+West Brom vs Everton,3,3.3,2.38,w
+West Ham vs Fulham,2.5,3.25,2.88,w
+Wigan vs Stoke,2.25,3.25,3.3,d
+Liverpool vs Arsenal,2,3.5,3.75,l
+Newcastle vs Aston Villa,1.62,3.75,6,d
+Southampton vs Man United,6,4.2,1.53,l
+Arsenal vs Southampton,1.36,5,8.5,w
+Aston Villa vs Swansea,2.38,3.25,3.1,w
+Fulham vs West Brom,2.1,3.4,3.5,w
+Man United vs Wigan,1.25,6,12,w
+Norwich vs West Ham,2.38,3.4,3,d
+QPR vs Chelsea,4.5,3.5,1.83,d
+Stoke vs Man City,5,3.6,1.73,d
+Sunderland vs Liverpool,3.4,3.3,2.2,d
+Reading vs Tottenham,3.75,3.5,2,l
+Everton vs Newcastle,1.73,3.6,5,d
+Chelsea vs Stoke,1.36,4.75,9,w
+Southampton vs Aston Villa,2.4,3.3,3,w
+Swansea vs Everton,3,3.3,2.4,l
+West Brom vs Reading,1.73,3.75,4.75,w
+West Ham vs Sunderland,2.1,3.3,3.6,d
+Wigan vs Fulham,2.4,3.3,3,l
+Liverpool vs Man United,2.7,3.3,2.63,l
+Man City vs Arsenal,1.75,3.6,4.75,d
+Newcastle vs Norwich,1.8,3.6,4.5,w
+Tottenham vs QPR,1.44,4.33,7.5,w
+Arsenal vs Chelsea,2.1,3.4,3.5,l
+Everton vs Southampton,1.4,4.75,8,w
+Fulham vs Man City,4.33,3.6,1.83,l
+Man United vs Tottenham,1.57,4,6,l
+Norwich vs Liverpool,4.75,3.75,1.73,l
+Reading vs Newcastle,2.88,3.3,2.5,d
+Stoke vs Swansea,1.91,3.4,4.2,w
+Sunderland vs Wigan,2,3.4,3.8,w
+Aston Villa vs West Brom,2.4,3.3,3,d
+QPR vs West Ham,2.05,3.4,3.75,l
+Chelsea vs Norwich,1.22,6.5,12,w
+Man City vs Sunderland,1.29,5.5,11,w
+Swansea vs Reading,1.91,3.6,4,d
+West Brom vs QPR,1.83,3.75,4.2,w
+West Ham vs Arsenal,4,3.6,1.91,l
+Wigan vs Everton,4.2,3.4,1.91,d
+Liverpool vs Stoke,1.44,4.33,7.5,d
+Newcastle vs Man United,4.2,3.75,1.83,l
+Southampton vs Fulham,2.75,3.3,2.6,d
+Tottenham vs Aston Villa,1.44,4.33,7.5,w
+Fulham vs Aston Villa,1.8,3.6,4.5,w
+Liverpool vs Reading,1.33,5,10,w
+Man United vs Stoke,1.29,5.5,11,w
+Norwich vs Arsenal,6,4.2,1.53,w
+Swansea vs Wigan,2.1,3.4,3.5,w
+Tottenham vs Chelsea,2.5,3.4,2.75,l
+West Brom vs Man City,5,3.75,1.7,l
+West Ham vs Southampton,1.83,3.75,4.2,w
+QPR vs Everton,3.25,3.4,2.2,d
+Sunderland vs Newcastle,2.5,3.3,2.88,d
+Arsenal vs QPR,1.36,5,8.5,w
+Aston Villa vs Norwich,2,3.5,3.75,d
+Man City vs Swansea,1.22,6,15,w
+Reading vs Fulham,2.75,3.4,2.5,d
+Stoke vs Sunderland,1.95,3.3,4.2,d
+Wigan vs West Ham,2.25,3.4,3.2,w
+Chelsea vs Man United,2.4,3.4,2.9,l
+Everton vs Liverpool,2.6,3.3,2.75,d
+Newcastle vs West Brom,2,3.5,3.75,w
+Southampton vs Tottenham,4.2,3.75,1.83,l
+Fulham vs Everton,2.75,3.4,2.5,d
+Man United vs Arsenal,1.7,3.8,5,w
+Norwich vs Stoke,2.6,3.3,2.75,w
+Sunderland vs Aston Villa,2.1,3.3,3.6,l
+Swansea vs Chelsea,4.5,3.6,1.8,d
+Tottenham vs Wigan,1.5,4.33,6.5,l
+West Ham vs Man City,5,3.8,1.7,d
+Liverpool vs Newcastle,1.57,4,6,d
+QPR vs Reading,1.8,3.6,4.5,d
+West Brom vs Southampton,1.73,3.75,4.75,w
+Arsenal vs Fulham,1.53,4.2,6,d
+Aston Villa vs Man United,7,4.5,1.44,l
+Everton vs Sunderland,1.44,4.2,8,w
+Reading vs Norwich,2.25,3.4,3.2,d
+Southampton vs Swansea,2.38,3.5,2.88,d
+Stoke vs QPR,1.91,3.4,4.2,w
+Wigan vs West Brom,2.3,3.4,3.1,l
+Chelsea vs Liverpool,1.95,3.5,4,d
+Man City vs Tottenham,1.57,4,6,w
+Newcastle vs West Ham,1.95,3.6,3.8,l
+Arsenal vs Tottenham,1.91,3.75,3.8,w
+Liverpool vs Wigan,1.44,4.33,7.5,w
+Man City vs Aston Villa,1.2,6.5,15,w
+Newcastle vs Swansea,1.91,3.6,4,l
+Norwich vs Man United,7,4.5,1.44,w
+QPR vs Southampton,1.91,3.6,4,l
+Reading vs Everton,4.33,3.6,1.83,w
+West Brom vs Chelsea,3.75,3.5,2,w
+Fulham vs Sunderland,1.67,3.75,5.25,l
+West Ham vs Stoke,2,3.4,3.8,d
+Aston Villa vs Arsenal,4.75,3.75,1.73,d
+Everton vs Norwich,1.44,4.33,7.5,d
+Man United vs QPR,1.17,7.5,15,w
+Stoke vs Fulham,2.2,3.3,3.4,w
+Sunderland vs West Brom,2.5,3.3,2.88,l
+Wigan vs Reading,1.83,3.6,4.33,w
+Chelsea vs Man City,2.5,3.5,2.7,d
+Southampton vs Newcastle,2.3,3.5,3,w
+Swansea vs Liverpool,3.4,3.5,2.1,d
+Tottenham vs West Ham,1.67,3.75,5.5,w
+Aston Villa vs Reading,1.95,3.4,4,w
+Sunderland vs QPR,2.25,3.25,3.3,d
+Chelsea vs Fulham,1.44,4.5,7,d
+Everton vs Arsenal,2.5,3.4,2.75,d
+Man United vs West Ham,1.22,6.5,12,w
+Southampton vs Norwich,2,3.4,3.8,d
+Stoke vs Newcastle,1.91,3.4,4.2,w
+Swansea vs West Brom,2.3,3.4,3.1,w
+Tottenham vs Liverpool,2.4,3.4,2.88,w
+Wigan vs Man City,6,4.2,1.53,l
+Arsenal vs Swansea,1.44,4.5,7,l
+Fulham vs Tottenham,2.88,3.3,2.5,l
+Liverpool vs Southampton,1.4,4.5,8.5,w
+Man City vs Everton,1.5,4,7,d
+QPR vs Aston Villa,1.95,3.5,4,d
+Reading vs Man United,7.5,4.75,1.4,l
+West Brom vs Stoke,2.1,3.25,3.75,l
+West Ham vs Chelsea,4,3.5,1.91,w
+Norwich vs Sunderland,2.1,3.3,3.6,w
+Newcastle vs Wigan,2,3.4,3.75,w
+Arsenal vs West Brom,1.5,4.33,6.5,w
+Aston Villa vs Stoke,2.4,3.2,3.1,d
+Southampton vs Reading,1.91,3.6,4,w
+Sunderland vs Chelsea,4.75,3.5,1.8,l
+Swansea vs Norwich,1.8,3.6,4.5,l
+Wigan vs QPR,2.3,3.4,3.1,d
+Everton vs Tottenham,2,3.5,3.75,w
+Man City vs Man United,2.2,3.5,3.2,l
+West Ham vs Liverpool,3,3.3,2.38,l
+Fulham vs Newcastle,1.91,3.6,4,w
+Sunderland vs Reading,2,3.5,3.75,w
+Liverpool vs Aston Villa,1.36,4.75,9,l
+Man United vs Sunderland,1.2,6.5,15,w
+Newcastle vs Man City,5.5,3.75,1.67,l
+Norwich vs Wigan,2.2,3.4,3.25,w
+QPR vs Fulham,2.4,3.4,2.88,w
+Stoke vs Everton,3.1,3.2,2.4,d
+Tottenham vs Swansea,1.62,4,5.5,w
+West Brom vs West Ham,2,3.5,3.75,d
+Reading vs Arsenal,5.5,4,1.62,l
+Liverpool vs Fulham,1.53,4,6.5,w
+Man City vs Reading,1.14,8,19,w
+Newcastle vs QPR,2.1,3.4,3.5,w
+Southampton vs Sunderland,2,3.5,3.75,l
+Tottenham vs Stoke,1.62,3.75,6,d
+West Brom vs Norwich,1.91,3.6,4,w
+West Ham vs Everton,2.88,3.25,2.5,l
+Wigan vs Arsenal,4.75,3.75,1.73,l
+Chelsea vs Aston Villa,1.33,5.5,8.5,w
+Swansea vs Man United,5,4,1.67,d
+Aston Villa vs Tottenham,3.75,3.5,2,l
+Everton vs Wigan,1.44,4.5,7,w
+Fulham vs Southampton,1.85,3.6,4.2,d
+Man United vs Newcastle,1.22,6.5,13,w
+Norwich vs Chelsea,6,3.75,1.62,l
+QPR vs West Brom,2.2,3.4,3.25,l
+Reading vs Swansea,2.9,3.4,2.38,d
+Stoke vs Liverpool,3.4,3.2,2.25,w
+Sunderland vs Man City,6.5,4,1.53,w
+Arsenal vs Newcastle,1.44,4.5,7,w
+Aston Villa vs Wigan,2.4,3.25,3,l
+Fulham vs Swansea,2.1,3.4,3.5,l
+Man United vs West Brom,1.3,5.5,10,w
+Norwich vs Man City,6,4,1.57,l
+Reading vs West Ham,2.88,3.25,2.5,w
+Stoke vs Southampton,1.8,3.5,4.75,d
+Sunderland vs Tottenham,3.5,3.4,2.1,l
+Everton vs Chelsea,2.88,3.3,2.5,l
+QPR vs Liverpool,4,3.5,1.91,l
+Man City vs Stoke,1.29,5.5,11,w
+Southampton vs Arsenal,5,3.75,1.7,d
+Swansea vs Aston Villa,1.57,4,6,d
+Tottenham vs Reading,1.33,5,10,w
+West Brom vs Fulham,2,3.5,3.75,l
+West Ham vs Norwich,2.1,3.4,3.5,w
+Wigan vs Man United,6,4.2,1.53,l
+Chelsea vs QPR,1.2,6.5,15,l
+Liverpool vs Sunderland,1.4,4.5,8.5,w
+Newcastle vs Everton,3,3.4,2.38,l
+Aston Villa vs Southampton,2.55,3.5,2.9,l
+Everton vs Swansea,1.57,4.2,6.5,d
+Fulham vs Wigan,2.05,3.5,4,d
+Norwich vs Newcastle,2.2,3.6,3.4,d
+QPR vs Tottenham,4.5,3.8,1.85,d
+Reading vs West Brom,3,3.4,2.5,w
+Stoke vs Chelsea,4.33,3.5,1.95,l
+Sunderland vs West Ham,2.38,3.3,3.3,w
+Arsenal vs Man City,2.63,3.5,2.8,l
+Man United vs Liverpool,1.91,3.8,4.2,w
+Chelsea vs Southampton,1.25,6.5,15,d
+Liverpool vs Norwich,1.33,5.5,10.5,w
+Man City vs Fulham,1.25,6.5,14,w
+Newcastle vs Reading,1.75,4,5,l
+Swansea vs Stoke,2.2,3.4,3.6,w
+West Brom vs Aston Villa,1.75,4,5,d
+West Ham vs QPR,2.1,3.5,3.75,d
+Wigan vs Sunderland,2.15,3.4,3.8,l
+Chelsea vs Arsenal,1.91,3.6,4,w
+Tottenham vs Man United,2.9,3.6,2.5,d
+Southampton vs Everton,3.6,3.5,2.05,d
+Arsenal vs West Ham,1.44,4.75,8,w
+Aston Villa vs Newcastle,2.9,3.4,2.6,l
+QPR vs Man City,7.5,4.5,1.5,d
+Stoke vs Wigan,2.2,3.3,3.75,d
+Sunderland vs Swansea,2.5,3.4,3,d
+Arsenal vs Liverpool,2.4,3.5,3.1,d
+Everton vs West Brom,1.6,4.1,6.5,w
+Fulham vs West Ham,2.2,3.5,3.5,w
+Man United vs Southampton,1.25,6.5,14,w
+Norwich vs Tottenham,4.75,3.75,1.83,d
+Reading vs Chelsea,7.5,4.5,1.5,d
+Arsenal vs Stoke,1.44,4.5,9,w
+Everton vs Aston Villa,1.4,5,9,d
+Fulham vs Man United,5.5,4.2,1.65,l
+Newcastle vs Chelsea,4,3.6,2,w
+QPR vs Norwich,1.95,3.6,4.33,d
+Reading vs Sunderland,2.5,3.4,3,w
+West Ham vs Swansea,2.4,3.4,3.2,w
+Wigan vs Southampton,2.2,3.5,3.5,d
+Man City vs Liverpool,1.83,3.9,4.5,d
+West Brom vs Tottenham,3.6,3.4,2.2,l
+Chelsea vs Wigan,1.36,5.5,9.5,w
+Norwich vs Fulham,2.3,3.4,3.4,d
+Southampton vs Man City,5.75,4,1.67,w
+Stoke vs Reading,1.91,3.5,4.6,w
+Sunderland vs Arsenal,4.5,3.6,1.91,l
+Swansea vs QPR,1.83,3.75,4.75,w
+Tottenham vs Newcastle,1.67,4,5.75,w
+Aston Villa vs West Ham,2.63,3.4,2.88,w
+Man United vs Everton,1.75,3.9,5,w
+Liverpool vs West Brom,1.4,5,9,l
+Liverpool vs Swansea,1.57,4.4,6,w
+Arsenal vs Aston Villa,1.33,5.5,11,w
+Fulham vs Stoke,2.2,3.3,3.75,w
+Norwich vs Everton,3.8,3.5,2.1,w
+QPR vs Man United,7,4.33,1.53,l
+Reading vs Wigan,2.63,3.4,2.88,l
+West Brom vs Sunderland,2.05,3.5,4,w
+Man City vs Chelsea,1.95,3.6,4.33,w
+Newcastle vs Southampton,2.2,3.5,3.2,w
+West Ham vs Tottenham,3.6,3.5,2.15,l
+Chelsea vs West Brom,1.4,5,9,w
+Everton vs Reading,1.38,5,10,w
+Man United vs Norwich,1.33,5.5,11,w
+Southampton vs QPR,1.85,3.8,4.5,l
+Stoke vs West Ham,2.15,3.25,4,l
+Sunderland vs Fulham,2.4,3.3,3.3,d
+Swansea vs Newcastle,2.1,3.6,3.75,w
+Wigan vs Liverpool,4.5,3.75,1.85,l
+Tottenham vs Arsenal,2.3,3.6,3.25,w
+Aston Villa vs Man City,7.5,4.5,1.44,l
+Norwich vs Southampton,2.5,3.4,3,d
+QPR vs Sunderland,2.25,3.4,3.5,w
+Reading vs Aston Villa,2.45,3.4,3.1,l
+West Brom vs Swansea,2.45,3.3,3.2,w
+Liverpool vs Tottenham,1.95,3.8,4,w
+Newcastle vs Stoke,1.83,3.7,4.8,w
+Aston Villa vs QPR,2.3,3.4,3.4,w
+Everton vs Man City,3.9,3.6,2.05,w
+Man United vs Reading,1.17,9,19,w
+Southampton vs Liverpool,4.2,3.8,1.91,w
+Stoke vs West Brom,2.5,3.3,3.1,d
+Swansea vs Arsenal,3.4,3.5,2.25,l
+Chelsea vs West Ham,1.4,5,9,w
+Sunderland vs Norwich,2.05,3.5,4,d
+Tottenham vs Fulham,1.5,4.5,7.5,l
+Wigan vs Newcastle,2.3,3.4,3.4,w
+Arsenal vs Reading,1.25,6.5,15,w
+Everton vs Stoke,1.57,3.9,7.5,w
+Man City vs Newcastle,1.33,5.5,11,w
+Southampton vs Chelsea,3.5,3.5,2.2,w
+Sunderland vs Man United,6,4,1.65,l
+Swansea vs Tottenham,3.4,3.4,2.3,l
+West Ham vs West Brom,2.3,3.4,3.4,w
+Wigan vs Norwich,1.95,3.6,4.33,w
+Aston Villa vs Liverpool,5,4,1.75,l
+Fulham vs QPR,2,3.6,4,w
+Norwich vs Swansea,2.63,3.3,2.9,d
+Reading vs Southampton,3.3,3.6,2.25,l
+Stoke vs Aston Villa,2.1,3.4,4,l
+West Brom vs Arsenal,4.1,3.7,1.95,l
+Chelsea vs Sunderland,1.36,5,11,w
+Liverpool vs West Ham,1.36,5.5,9,d
+Newcastle vs Fulham,2.1,3.5,3.8,w
+QPR vs Wigan,2.38,3.4,3.25,d
+Tottenham vs Everton,2.2,3.4,3.6,d
+Man United vs Man City,2.3,3.5,3.3,l
+Arsenal vs Norwich,1.25,6.5,14,w
+Aston Villa vs Fulham,2.3,3.3,3.5,d
+Everton vs QPR,1.44,4.75,8,w
+Reading vs Liverpool,8,4.75,1.45,d
+Southampton vs West Ham,1.91,3.75,4.2,d
+Newcastle vs Sunderland,1.95,3.5,4.5,l
+Stoke vs Man United,7,3.9,1.6,l
+Arsenal vs Everton,1.75,3.9,5,d
+Fulham vs Chelsea,4.75,3.8,1.8,l
+Man City vs Wigan,1.25,6.5,14,w
+West Ham vs Man United,5.5,3.9,1.7,d
+Fulham vs Arsenal,5,4,1.75,l
+Norwich vs Reading,1.75,3.8,5.25,w
+QPR vs Stoke,2.25,3.4,3.5,l
+Sunderland vs Everton,3.4,3.4,2.3,w
+Swansea vs Southampton,2.38,3.5,3.1,d
+West Brom vs Newcastle,2.25,3.5,3.4,d
+West Ham vs Wigan,2.3,3.5,3.3,w
+Liverpool vs Chelsea,2.15,3.6,3.6,d
+Tottenham vs Man City,3.25,3.6,2.3,w
+Man United vs Aston Villa,1.25,6.75,13,w
+Everton vs Fulham,1.5,4.5,7.5,w
+Man City vs West Ham,1.29,6,12,w
+Newcastle vs Liverpool,2.88,3.6,2.5,l
+Southampton vs West Brom,1.85,3.75,4.6,l
+Stoke vs Norwich,2.25,3.3,3.6,w
+Wigan vs Tottenham,3.8,3.6,2.05,d
+Arsenal vs Man United,2.25,3.6,3.3,d
+Chelsea vs Swansea,1.36,5.5,9,w
+Reading vs QPR,2.55,3.5,2.88,d
+Aston Villa vs Sunderland,2.3,3.4,3.4,w
+Fulham vs Reading,1.73,3.9,5.25,l
+Norwich vs Aston Villa,2.55,3.3,3,l
+QPR vs Arsenal,8,4.75,1.44,l
+Swansea vs Man City,5.25,3.8,1.75,d
+Tottenham vs Southampton,1.44,4.75,8,w
+West Brom vs Wigan,2.45,3.5,3,l
+West Ham vs Newcastle,2.38,3.4,3.25,d
+Liverpool vs Everton,1.95,3.6,4.2,d
+Man United vs Chelsea,2.2,3.5,3.5,l
+Sunderland vs Stoke,2.1,3.3,4,d
+Man City vs West Brom,1.4,5,9,w
+Wigan vs Swansea,1.83,3.75,4.75,l
+Chelsea vs Tottenham,1.95,3.75,4,d
+Aston Villa vs Chelsea,4.5,3.8,1.85,l
+Everton vs West Ham,1.5,4.5,7.5,w
+Fulham vs Liverpool,3.9,3.6,2.05,l
+Man United vs Swansea,1.3,5.75,12,w
+Norwich vs West Brom,2.2,3.4,3.6,w
+QPR vs Newcastle,3.4,3.4,2.3,l
+Stoke vs Tottenham,4.5,3.6,1.91,l
+Sunderland vs Southampton,2.8,3.2,2.8,d
+Arsenal vs Wigan,1.4,5.5,8,w
+Reading vs Man City,6,4.33,1.6,l
+Chelsea vs Everton,1.7,4,5.5,w
+Liverpool vs QPR,1.25,7,12,w
+Man City vs Norwich,1.33,5.5,11,l
+Newcastle vs Arsenal,6,4.6,1.55,l
+Southampton vs Stoke,1.75,3.8,5.25,d
+Swansea vs Fulham,1.8,3.8,4.75,l
+Tottenham vs Sunderland,1.29,6,12,w
+West Brom vs Man United,4.5,3.9,1.83,d
+West Ham vs Reading,1.67,4,5.75,w
+Wigan vs Aston Villa,2.15,3.6,3.6,d
+Blackburn vs Wolves,2.2,3.2,3.5,l
+Fulham vs Aston Villa,2.2,3.2,3.5,d
+Liverpool vs Sunderland,1.57,3.6,7,d
+Newcastle vs Arsenal,3.75,3.25,2.1,d
+QPR vs Bolton,2.4,3.25,3,l
+Wigan vs Norwich,2.2,3.2,3.5,d
+Stoke vs Chelsea,5.5,3.5,1.7,d
+West Brom vs Man United,6.5,4,1.53,l
+Man City vs Swansea,1.29,5,13,w
+Arsenal vs Liverpool,2.5,3.25,2.9,l
+Aston Villa vs Blackburn,1.73,3.4,5.5,w
+Chelsea vs West Brom,1.3,5.5,10,w
+Everton vs QPR,1.53,3.8,7,l
+Sunderland vs Newcastle,2.2,3.25,3.4,l
+Swansea vs Wigan,2.1,3.3,3.6,d
+Bolton vs Man City,4.75,3.5,1.8,l
+Norwich vs Stoke,2.6,3.3,2.75,d
+Wolves vs Fulham,2.38,3.25,3.1,w
+Man United vs Tottenham,1.67,3.75,5.5,w
+Aston Villa vs Wolves,2.1,3.25,3.75,d
+Blackburn vs Everton,3.3,3.25,2.25,l
+Chelsea vs Norwich,1.2,6.5,15,w
+Liverpool vs Bolton,1.4,4.5,8.5,w
+Swansea vs Sunderland,2.38,3.3,3,d
+Wigan vs QPR,2.25,3.3,3.25,w
+Man United vs Arsenal,1.5,4.33,6.5,w
+Newcastle vs Fulham,2.1,3.25,3.75,w
+Tottenham vs Man City,2.88,3.3,2.5,l
+West Brom vs Stoke,2.1,3.25,3.75,l
+Arsenal vs Swansea,1.36,4.75,9,w
+Bolton vs Man United,9,4.5,1.4,l
+Everton vs Aston Villa,2,3.4,3.8,d
+Man City vs Wigan,1.17,7,17,w
+Stoke vs Liverpool,3.25,3.3,2.25,w
+Sunderland vs Chelsea,5,3.75,1.7,l
+Wolves vs Tottenham,3,3.25,2.4,l
+Fulham vs Blackburn,1.67,3.6,5.5,d
+Norwich vs West Brom,2.5,3.25,2.88,l
+QPR vs Newcastle,2.4,3.25,3,d
+Aston Villa vs Newcastle,1.91,3.4,4.2,d
+Blackburn vs Arsenal,4.2,3.4,1.91,w
+Bolton vs Norwich,1.8,3.6,4.6,l
+Everton vs Wigan,1.5,4,7,w
+Swansea vs West Brom,2.63,3.2,2.75,w
+Wolves vs QPR,1.91,3.4,4.2,l
+Fulham vs Man City,6.5,3.8,1.57,d
+Man United vs Chelsea,1.83,3.5,4.5,w
+Sunderland vs Stoke,2.4,3.2,3.1,w
+Tottenham vs Liverpool,2.63,3.4,2.63,w
+Arsenal vs Bolton,1.44,4.5,7,w
+Chelsea vs Swansea,1.2,6.5,15,w
+Liverpool vs Wolves,1.36,4.5,10,w
+Man City vs Everton,1.44,4.33,7.5,w
+Newcastle vs Blackburn,1.83,3.5,4.5,w
+Stoke vs Man United,6.5,4,1.53,d
+West Brom vs Fulham,2.3,3.25,3.25,d
+Wigan vs Tottenham,4,3.5,1.91,l
+QPR vs Aston Villa,2.3,3.25,3.2,d
+Norwich vs Sunderland,2.5,3.4,2.8,w
+Aston Villa vs Wigan,1.62,3.75,6,w
+Blackburn vs Man City,6.5,3.75,1.57,l
+Everton vs Liverpool,3.1,3.2,2.4,l
+Man United vs Norwich,1.17,7,17,w
+Sunderland vs West Brom,2.25,3.4,3.2,d
+Wolves vs Newcastle,2.5,3.25,2.88,l
+Bolton vs Chelsea,6.5,4,1.53,l
+Fulham vs QPR,2,3.3,4,w
+Swansea vs Stoke,2.63,3.25,2.75,w
+Tottenham vs Arsenal,2.1,3.4,3.5,w
+Chelsea vs Everton,1.36,4.5,10,w
+Liverpool vs Man United,3,3.3,2.4,d
+Man City vs Aston Villa,1.33,5,10,w
+Norwich vs Swansea,2.2,3.3,3.4,w
+QPR vs Blackburn,1.83,3.5,4.5,d
+Stoke vs Fulham,2.2,3.2,3.5,w
+Wigan vs Bolton,2.3,3.3,3.2,l
+Arsenal vs Sunderland,1.44,4.33,7.5,w
+Newcastle vs Tottenham,3,3.3,2.4,d
+West Brom vs Wolves,2,3.3,4,w
+Aston Villa vs West Brom,2,3.3,4,l
+Bolton vs Sunderland,2.2,3.2,3.5,l
+Liverpool vs Norwich,1.29,5.5,11,d
+Newcastle vs Wigan,1.57,3.8,6.5,w
+Wolves vs Swansea,2,3.4,3.8,d
+Arsenal vs Stoke,1.53,4,6.5,w
+Blackburn vs Tottenham,4,3.5,1.91,l
+Fulham vs Everton,2.25,3.25,3.3,l
+Man United vs Man City,2,3.4,3.8,l
+QPR vs Chelsea,9.5,5,1.33,w
+Chelsea vs Arsenal,1.62,4,5.5,l
+Everton vs Man United,4.5,3.6,1.8,l
+Man City vs Wolves,1.17,7,19,w
+Norwich vs Blackburn,1.91,3.6,4,d
+Sunderland vs Aston Villa,2.1,3.3,3.6,d
+Swansea vs Bolton,2.1,3.3,3.6,w
+West Brom vs Liverpool,4,3.3,2,l
+Wigan vs Fulham,2.88,3.25,2.5,l
+Tottenham vs QPR,1.36,4.75,9,w
+Stoke vs Newcastle,2.1,3.2,3.8,l
+Arsenal vs West Brom,1.4,4.5,8.5,w
+Aston Villa vs Norwich,1.83,3.5,4.5,w
+Blackburn vs Chelsea,7.5,4.33,1.44,l
+Liverpool vs Swansea,1.29,5.5,10,d
+Man United vs Sunderland,1.25,5.5,13,w
+Newcastle vs Everton,2.25,3.25,3.3,w
+QPR vs Man City,10,5,1.33,l
+Bolton vs Stoke,2.4,3.3,3,w
+Fulham vs Tottenham,3.25,3.3,2.25,l
+Wolves vs Wigan,1.91,3.3,4.33,w
+Everton vs Wolves,1.57,3.75,6.5,w
+Man City vs Newcastle,1.3,5.5,10,w
+Norwich vs Arsenal,5.5,3.6,1.67,l
+Stoke vs QPR,1.83,3.5,4.5,l
+Sunderland vs Fulham,2.3,3.25,3.2,d
+Swansea vs Man United,6.5,4.2,1.5,l
+West Brom vs Bolton,2,3.4,3.8,w
+Wigan vs Blackburn,2.5,3.25,2.88,d
+Chelsea vs Liverpool,1.83,3.5,4.5,l
+Tottenham vs Aston Villa,1.57,4,6,w
+Arsenal vs Fulham,1.44,4.2,8,d
+Bolton vs Everton,3.1,3.25,2.38,l
+Chelsea vs Wolves,1.22,6,15,w
+Man United vs Newcastle,1.4,4.5,8.5,d
+Norwich vs QPR,2.1,3.4,3.5,w
+Stoke vs Blackburn,1.83,3.5,4.5,w
+Sunderland vs Wigan,1.67,3.6,5.5,l
+West Brom vs Tottenham,4,3.6,1.91,l
+Liverpool vs Man City,2.75,3.2,2.63,d
+Swansea vs Aston Villa,2.2,3.25,3.4,d
+Aston Villa vs Man United,5,3.6,1.73,l
+Blackburn vs Swansea,2.1,3.4,3.5,w
+Man City vs Norwich,1.17,7,17,w
+Newcastle vs Chelsea,3.5,3.4,2.1,l
+QPR vs West Brom,2.25,3.3,3.25,d
+Tottenham vs Bolton,1.3,5,12,w
+Wigan vs Arsenal,6,4,1.57,l
+Everton vs Stoke,1.67,3.6,5.5,l
+Wolves vs Sunderland,2.4,3.3,3,w
+Fulham vs Liverpool,3.5,3.4,2.1,w
+Arsenal vs Everton,1.53,4,6.5,w
+Bolton vs Aston Villa,2.5,3.3,2.88,l
+Liverpool vs QPR,1.33,5,10,w
+Man United vs Wolves,1.22,6,15,w
+Norwich vs Newcastle,2.4,3.4,2.88,w
+Swansea vs Fulham,2.63,3.25,2.75,w
+West Brom vs Wigan,1.67,3.8,5.25,l
+Stoke vs Tottenham,3.75,3.5,2,w
+Sunderland vs Blackburn,1.83,3.5,4.5,w
+Chelsea vs Man City,2.4,3.3,3,w
+Blackburn vs West Brom,2.38,3.3,3,l
+Everton vs Norwich,1.62,3.75,6,d
+Fulham vs Bolton,1.62,3.75,6,w
+Newcastle vs Swansea,1.8,3.6,4.5,d
+Wigan vs Chelsea,9,4.75,1.36,d
+Wolves vs Stoke,2.5,3.25,2.88,l
+Aston Villa vs Liverpool,4.2,3.4,1.91,l
+Man City vs Arsenal,1.73,3.75,4.5,w
+QPR vs Man United,7.5,4.33,1.44,l
+Tottenham vs Sunderland,1.36,4.75,9,w
+Blackburn vs Bolton,2.1,3.4,3.5,l
+Wolves vs Norwich,2,3.5,3.75,d
+Aston Villa vs Arsenal,5,3.6,1.73,l
+Everton vs Swansea,1.57,3.75,6.5,w
+Fulham vs Man United,5,3.6,1.73,l
+Man City vs Stoke,1.22,6,15,w
+Newcastle vs West Brom,2,3.5,3.75,l
+QPR vs Sunderland,2.5,3.3,2.88,l
+Wigan vs Liverpool,7,4,1.5,d
+Tottenham vs Chelsea,2.6,3.4,2.7,d
+Bolton vs Newcastle,2.5,3.4,2.8,l
+Chelsea vs Fulham,1.3,5,12,d
+Liverpool vs Blackburn,1.25,5.5,13,d
+Man United vs Wigan,1.14,7.5,21,w
+Stoke vs Aston Villa,1.91,3.4,4.2,d
+Sunderland vs Everton,2.4,3.25,3,d
+West Brom vs Man City,7,4.5,1.44,d
+Arsenal vs Wolves,1.22,6,15,d
+Norwich vs Tottenham,4.5,3.6,1.8,l
+Swansea vs QPR,2,3.4,3.8,d
+Liverpool vs Newcastle,1.53,4,6.5,w
+Arsenal vs QPR,1.25,5.5,13,w
+Bolton vs Wolves,2.2,3.25,3.4,d
+Chelsea vs Aston Villa,1.29,5,13,l
+Man United vs Blackburn,1.13,8,26,l
+Norwich vs Fulham,2.6,3.25,2.75,d
+Stoke vs Wigan,1.67,3.6,5.5,d
+Swansea vs Tottenham,5.5,3.6,1.67,d
+Sunderland vs Man City,6.5,4,1.53,w
+West Brom vs Everton,2.6,3.25,2.75,l
+Aston Villa vs Swansea,1.83,3.4,4.75,l
+Blackburn vs Stoke,2.5,3.25,2.88,l
+Fulham vs Arsenal,4,3.5,1.91,w
+QPR vs Norwich,2.1,3.4,3.5,l
+Wolves vs Chelsea,6,4,1.57,l
+Man City vs Liverpool,1.91,3.4,4.2,w
+Tottenham vs West Brom,1.33,5,10,w
+Wigan vs Sunderland,2.63,3.25,2.75,l
+Everton vs Bolton,1.5,4,7,l
+Newcastle vs Man United,5,3.6,1.73,w
+Tottenham vs Everton,1.53,3.8,7,w
+Aston Villa vs Everton,2.4,3.25,3,d
+Blackburn vs Fulham,3,3.3,2.38,w
+Chelsea vs Sunderland,1.4,4.5,8.5,w
+Liverpool vs Stoke,1.4,4.33,9,d
+Man United vs Bolton,1.14,8,17,w
+Tottenham vs Wolves,1.25,5.5,13,d
+West Brom vs Norwich,2,3.4,3.8,l
+Newcastle vs QPR,1.73,3.6,5,w
+Swansea vs Arsenal,4.75,3.5,1.8,w
+Wigan vs Man City,9,4.33,1.4,l
+Bolton vs Liverpool,6,3.75,1.62,w
+Everton vs Blackburn,1.53,4,6.5,d
+Fulham vs Newcastle,2,3.4,3.8,w
+Norwich vs Chelsea,5.5,4,1.62,d
+QPR vs Wigan,2,3.4,3.8,w
+Stoke vs West Brom,1.91,3.4,4.2,l
+Sunderland vs Swansea,1.91,3.4,4.2,w
+Wolves vs Aston Villa,2.5,3.25,2.88,l
+Arsenal vs Man United,2.8,3.4,2.5,l
+Man City vs Tottenham,1.91,3.6,4,w
+Everton vs Man City,4.33,3.5,1.85,w
+Man United vs Stoke,1.33,5,10,w
+Swansea vs Chelsea,4,3.25,2,d
+Tottenham vs Wigan,1.22,6,15,w
+Wolves vs Liverpool,5,3.8,1.7,l
+Aston Villa vs QPR,1.8,3.5,4.75,d
+Blackburn vs Newcastle,2.63,3.3,2.7,l
+Bolton vs Arsenal,5,3.75,1.7,d
+Fulham vs West Brom,1.83,3.5,4.5,d
+Sunderland vs Norwich,1.91,3.5,4.2,w
+Arsenal vs Blackburn,1.29,5.5,11,w
+Man City vs Fulham,1.3,5.5,10,w
+Norwich vs Bolton,2,3.5,3.75,w
+QPR vs Wolves,1.91,3.6,4,l
+Stoke vs Sunderland,2.25,3.25,3.3,l
+West Brom vs Swansea,2.1,3.3,3.6,l
+Wigan vs Everton,3.5,3.4,2.1,d
+Chelsea vs Man United,2.5,3.3,2.88,d
+Newcastle vs Aston Villa,2,3.4,3.8,w
+Liverpool vs Tottenham,2,3.4,3.8,d
+Blackburn vs QPR,2.38,3.3,3,w
+Bolton vs Wigan,2,3.5,3.75,l
+Everton vs Chelsea,3.25,3.3,2.25,w
+Fulham vs Stoke,1.91,3.5,4,w
+Man United vs Liverpool,1.85,3.6,4.33,w
+Sunderland vs Arsenal,3.5,3.4,2.1,l
+Swansea vs Norwich,1.83,3.5,4.5,l
+Tottenham vs Newcastle,1.44,4.33,7.5,w
+Aston Villa vs Man City,5.5,3.6,1.67,l
+Wolves vs West Brom,2.5,3.25,2.88,l
+Chelsea vs Bolton,1.29,5.5,11,w
+Man City vs Blackburn,1.17,7,17,w
+Newcastle vs Wolves,1.57,4,6,d
+QPR vs Fulham,2.63,3.25,2.75,l
+West Brom vs Sunderland,2.4,3.25,3,w
+Wigan vs Aston Villa,2.75,3.25,2.63,d
+Arsenal vs Tottenham,2.5,3.4,2.75,w
+Norwich vs Man United,6.5,4,1.53,l
+Stoke vs Swansea,2.1,3.4,3.5,w
+Blackburn vs Aston Villa,2.38,3.4,3,d
+Liverpool vs Arsenal,2,3.5,3.75,l
+Man City vs Bolton,1.13,8.5,21,w
+QPR vs Everton,3.1,3.25,2.38,d
+Stoke vs Norwich,1.83,3.5,4.5,w
+West Brom vs Chelsea,4.2,3.4,1.91,w
+Wigan vs Swansea,2.5,3.25,2.88,l
+Fulham vs Wolves,1.57,3.75,6.5,w
+Newcastle vs Sunderland,2.1,3.4,3.5,d
+Tottenham vs Man United,2.88,3.4,2.4,l
+Aston Villa vs Fulham,2.5,3.25,2.88,w
+Bolton vs QPR,2.5,3.25,2.88,w
+Chelsea vs Stoke,1.4,4.5,8.5,w
+Everton vs Tottenham,2.88,3.25,2.5,w
+Sunderland vs Liverpool,3.8,3.4,2,w
+Wolves vs Blackburn,2.38,3.3,3,l
+Man United vs West Brom,1.29,5.5,11,w
+Norwich vs Wigan,1.83,3.6,4.33,d
+Swansea vs Man City,6,3.75,1.62,w
+Arsenal vs Newcastle,1.44,4.33,7.5,w
+Liverpool vs Everton,1.73,3.4,5.5,w
+Fulham vs Swansea,1.83,3.5,4.5,l
+Wigan vs West Brom,2.75,3.3,2.6,d
+Newcastle vs Norwich,1.8,3.6,4.5,w
+Wolves vs Man United,9,5,1.33,l
+Blackburn vs Sunderland,2.4,3.4,2.88,w
+Everton vs Arsenal,3,3.4,2.3,l
+Man City vs Chelsea,1.91,3.6,4,w
+QPR vs Liverpool,5,3.6,1.73,w
+Tottenham vs Stoke,1.4,4.5,8.5,d
+Arsenal vs Aston Villa,1.33,5,10,w
+Bolton vs Blackburn,2.4,3.4,2.9,w
+Chelsea vs Tottenham,1.83,3.6,4.33,d
+Liverpool vs Wigan,1.29,5.5,11,l
+Norwich vs Wolves,1.73,3.75,4.75,w
+Stoke vs Man City,6,3.75,1.62,d
+Sunderland vs QPR,2,3.4,3.8,w
+Swansea vs Everton,2.2,3.25,3.4,l
+West Brom vs Newcastle,2.3,3.4,3.1,l
+Man United vs Fulham,1.22,6,15,w
+Aston Villa vs Chelsea,4.5,3.5,1.83,l
+Everton vs West Brom,1.83,3.5,4.5,w
+Fulham vs Norwich,1.7,3.75,5,w
+Man City vs Sunderland,1.22,6.5,12,d
+QPR vs Arsenal,5.5,4.2,1.57,w
+Wigan vs Stoke,2.63,3.25,2.75,w
+Wolves vs Bolton,2.3,3.4,3.1,l
+Newcastle vs Liverpool,2.88,3.4,2.4,w
+Tottenham vs Swansea,1.4,4.5,8.5,w
+Blackburn vs Man United,9,4.75,1.36,l
+Swansea vs Newcastle,2.4,3.4,2.88,l
+Bolton vs Fulham,2.6,3.3,2.75,l
+Chelsea vs Wigan,1.25,6,12,w
+Liverpool vs Aston Villa,1.44,4.33,7.5,d
+Norwich vs Everton,3,3.3,2.4,d
+Stoke vs Wolves,1.57,4,6,w
+Sunderland vs Tottenham,3.3,3.4,2.2,d
+West Brom vs Blackburn,1.91,3.6,4,w
+Arsenal vs Man City,2.4,3.4,2.88,w
+Man United vs QPR,1.17,7.5,15,w
+Aston Villa vs Stoke,2.2,3.3,3.4,d
+Everton vs Sunderland,1.83,3.5,4.5,w
+Fulham vs Chelsea,3.5,3.4,2.1,d
+Newcastle vs Bolton,1.53,4.2,6,w
+Tottenham vs Norwich,1.29,5.5,11,l
+Blackburn vs Liverpool,3.5,3.4,2.1,l
+Man City vs West Brom,1.25,5.5,13,w
+QPR vs Swansea,2.1,3.4,3.5,w
+Wigan vs Man United,9,4.75,1.36,w
+Wolves vs Arsenal,7,4.5,1.44,l
+Norwich vs Man City,6,4.2,1.53,l
+Sunderland vs Wolves,1.5,4.2,6.5,d
+Swansea vs Blackburn,1.91,3.5,4,w
+West Brom vs QPR,2.1,3.4,3.5,w
+Man United vs Aston Villa,1.22,6.5,13,w
+Arsenal vs Wigan,1.25,6,12,l
+Arsenal vs Chelsea,2,3.6,3.6,d
+Aston Villa vs Sunderland,2.3,3.3,3.2,d
+Blackburn vs Norwich,2.1,3.4,3.5,w
+Bolton vs Swansea,2.2,3.3,3.4,d
+Fulham vs Wigan,1.91,3.6,4,w
+Newcastle vs Stoke,1.67,3.75,5.5,w
+QPR vs Tottenham,4,3.6,1.91,w
+Liverpool vs West Brom,1.44,4.33,7.5,l
+Man United vs Everton,1.3,5,11,d
+Wolves vs Man City,12,6.5,1.22,l
+Aston Villa vs Bolton,1.91,3.5,4,l
+Everton vs Fulham,1.83,3.5,4.5,w
+Norwich vs Liverpool,3.8,3.4,2,l
+Stoke vs Arsenal,4.33,3.6,1.83,d
+Sunderland vs Bolton,2,3.5,3.75,d
+Swansea vs Wolves,1.53,4,6.5,d
+West Brom vs Aston Villa,2.1,3.4,3.5,d
+Wigan vs Newcastle,2.8,3.4,2.5,w
+Chelsea vs QPR,1.4,4.5,8.5,w
+Tottenham vs Blackburn,1.36,5,8,w
+Man City vs Man United,2.1,3.5,3.4,w
+Liverpool vs Fulham,1.62,4,5.5,l
+Stoke vs Everton,2.75,3.25,2.6,d
+Bolton vs Tottenham,4,3.6,1.91,l
+Chelsea vs Newcastle,1.5,4.33,6.5,l
+Arsenal vs Norwich,1.22,6.5,12,d
+Aston Villa vs Tottenham,4.2,3.75,1.83,d
+Bolton vs West Brom,2,3.5,3.75,d
+Fulham vs Sunderland,1.83,3.6,4.33,w
+Man United vs Swansea,1.17,7,17,w
+Newcastle vs Man City,5,4,1.67,l
+QPR vs Stoke,1.83,3.75,4.2,w
+Wolves vs Everton,5,3.75,1.7,d
+Blackburn vs Wigan,2.4,3.5,2.88,l
+Liverpool vs Chelsea,2.1,3.5,3.4,w
+Chelsea vs Blackburn,1.3,5.5,10,w
+Everton vs Newcastle,2.2,3.5,3.2,w
+Man City vs QPR,1.13,9,19,w
+Norwich vs Aston Villa,2.2,3.4,3.25,w
+Stoke vs Bolton,2.38,3.5,2.88,d
+Sunderland vs Man United,7,4.5,1.44,l
+Swansea vs Liverpool,3.4,3.5,2.1,w
+Tottenham vs Fulham,1.4,4.5,8.5,w
+West Brom vs Arsenal,5,4,1.67,l
+Wigan vs Wolves,1.57,4,6,w
+Aston Villa vs West Ham,2,3.3,4,w
+Blackburn vs Everton,2.88,3.25,2.5,w
+Bolton vs Fulham,2.2,3.3,3.4,d
+Chelsea vs West Brom,1.17,7,17,w
+Sunderland vs Birmingham,2.1,3.3,3.6,d
+Tottenham vs Man City,2.4,3.3,3,d
+Wigan vs Blackpool,1.83,3.5,4.5,l
+Wolves vs Stoke,2.3,3.25,3.2,w
+Liverpool vs Arsenal,2.5,3.25,2.88,d
+Man United vs Newcastle,1.25,5.5,15,w
+Arsenal vs Blackpool,1.17,7,19,w
+Birmingham vs Blackburn,2.2,3.25,3.4,w
+Everton vs Wolves,1.5,4,7,d
+Stoke vs Tottenham,3.4,3.3,2.2,l
+West Brom vs Sunderland,2.5,3.25,2.88,w
+West Ham vs Bolton,2.25,3.3,3.25,l
+Wigan vs Chelsea,15,6,1.22,l
+Fulham vs Man United,6,4,1.57,d
+Newcastle vs Aston Villa,3.2,3.25,2.3,w
+Man City vs Liverpool,2.38,3.25,3.1,w
+Blackburn vs Arsenal,6,4,1.57,l
+Blackpool vs Fulham,3.2,3.25,2.3,d
+Chelsea vs Stoke,1.11,9,23,w
+Man United vs West Ham,1.14,8,19,w
+Tottenham vs Wigan,1.25,5.75,13,l
+Wolves vs Newcastle,2.4,3.2,3.1,d
+Aston Villa vs Everton,2.5,3.25,2.88,w
+Bolton vs Birmingham,2.1,3.3,3.6,d
+Liverpool vs West Brom,1.22,6,15,w
+Sunderland vs Man City,4.5,3.5,1.83,w
+Arsenal vs Bolton,1.25,5.5,13,w
+Everton vs Man United,4.2,3.4,1.91,d
+Fulham vs Wolves,1.83,3.5,4.5,w
+Man City vs Blackburn,1.33,5,10,d
+Newcastle vs Blackpool,1.57,4,6,l
+West Brom vs Tottenham,3.75,3.25,2.1,d
+West Ham vs Chelsea,10,5,1.33,l
+Wigan vs Sunderland,2.5,3.25,2.88,d
+Birmingham vs Liverpool,3.1,3.2,2.4,d
+Stoke vs Aston Villa,2.5,3.25,2.88,w
+Aston Villa vs Bolton,1.8,3.6,4.5,d
+Blackburn vs Fulham,2,3.3,4,d
+Everton vs Newcastle,1.62,3.75,6,l
+Stoke vs West Ham,1.91,3.4,4.2,d
+Sunderland vs Arsenal,5.5,3.7,1.67,d
+Tottenham vs Wolves,1.4,4.5,8.5,w
+West Brom vs Birmingham,2.25,3.3,3.25,w
+Chelsea vs Blackpool,1.1,9,26,w
+Man United vs Liverpool,1.7,3.5,5.5,w
+Wigan vs Man City,5,3.6,1.73,l
+Arsenal vs West Brom,1.22,6,15,l
+Birmingham vs Wigan,1.83,3.5,4.5,d
+Blackpool vs Blackburn,3.2,3.25,2.3,l
+Fulham vs Everton,2.75,3.2,2.63,d
+Liverpool vs Sunderland,1.44,4.33,7.5,d
+Man City vs Chelsea,3.6,3.3,2.1,w
+West Ham vs Tottenham,3.5,3.4,2.1,w
+Bolton vs Man United,7.5,4,1.5,d
+Newcastle vs Stoke,1.91,3.4,4.2,l
+Wolves vs Aston Villa,2.88,3.25,2.5,l
+Birmingham vs Everton,2.88,3.1,2.63,l
+Stoke vs Blackburn,2.25,3.2,3.4,w
+Sunderland vs Man United,5,3.5,1.75,d
+Tottenham vs Aston Villa,1.91,3.5,4,w
+West Brom vs Bolton,2.1,3.25,3.75,d
+West Ham vs Fulham,2.25,3.25,3.3,d
+Wigan vs Wolves,2.25,3.25,3.3,w
+Chelsea vs Arsenal,1.73,3.6,5,w
+Liverpool vs Blackpool,1.33,5,10,l
+Man City vs Newcastle,1.44,4,8.5,w
+Arsenal vs Birmingham,1.29,5.5,11,w
+Aston Villa vs Chelsea,5,3.6,1.73,d
+Bolton vs Stoke,2.2,3.2,3.5,w
+Fulham vs Tottenham,2.88,3.25,2.5,l
+Man United vs West Brom,1.25,5.75,12,d
+Newcastle vs Wigan,1.83,3.5,4.5,d
+Wolves vs West Ham,2.25,3.2,3.4,d
+Blackpool vs Man City,5.5,4,1.62,l
+Everton vs Liverpool,2.4,3.25,3,w
+Blackburn vs Sunderland,2.1,3.3,3.6,d
+Birmingham vs Blackpool,1.83,3.6,4.33,w
+Chelsea vs Wolves,1.13,8.5,19,w
+Sunderland vs Aston Villa,2.4,3.25,3,w
+Tottenham vs Everton,2.1,3.25,3.75,d
+West Brom vs Fulham,2.2,3.25,3.4,w
+West Ham vs Newcastle,2.38,3.25,3.1,l
+Wigan vs Bolton,2.38,3.25,3.1,d
+Liverpool vs Blackburn,1.67,3.6,5.5,w
+Man City vs Arsenal,2.5,3.2,2.9,l
+Stoke vs Man United,5.5,3.75,1.67,l
+Arsenal vs West Ham,1.17,7,17,w
+Blackburn vs Chelsea,7.5,4.33,1.44,l
+Everton vs Stoke,1.57,3.75,6.5,w
+Fulham vs Wigan,1.91,3.4,4.2,w
+Man United vs Tottenham,1.57,4,6,w
+Wolves vs Man City,5.5,3.4,1.73,w
+Aston Villa vs Birmingham,1.8,3.6,4.5,d
+Bolton vs Liverpool,3.4,3.25,2.2,l
+Newcastle vs Sunderland,2.2,3.2,3.5,w
+Blackpool vs West Brom,2.9,3.25,2.5,w
+Birmingham vs West Ham,1.91,3.4,4.2,d
+Blackburn vs Wigan,1.8,3.6,4.5,w
+Blackpool vs Everton,4.5,3.6,1.8,d
+Bolton vs Tottenham,3,3.3,2.4,w
+Fulham vs Aston Villa,2.2,3.25,3.4,d
+Man United vs Wolves,1.22,6,15,w
+Sunderland vs Stoke,2.1,3.2,3.75,w
+Arsenal vs Newcastle,1.29,5.5,11,l
+Liverpool vs Chelsea,3.8,3.4,2,w
+West Brom vs Man City,3.6,3.3,2.1,l
+Stoke vs Birmingham,2.1,3.2,3.75,w
+Tottenham vs Sunderland,1.53,4,6.5,d
+Aston Villa vs Blackpool,1.62,3.75,6,w
+Chelsea vs Fulham,1.2,6.5,15,w
+Everton vs Bolton,1.62,3.75,6,d
+Man City vs Man United,2.63,3.25,2.75,d
+Newcastle vs Blackburn,1.91,3.4,4.2,l
+West Ham vs West Brom,2.3,3.25,3.2,d
+Wigan vs Liverpool,4.75,3.6,1.75,d
+Wolves vs Arsenal,5.5,3.6,1.67,l
+Aston Villa vs Man United,4.5,3.6,1.8,d
+Man City vs Birmingham,1.4,4.5,8.5,d
+Newcastle vs Fulham,1.91,3.4,4.2,d
+Stoke vs Liverpool,3.75,3.25,2.1,w
+Tottenham vs Blackburn,1.57,3.8,6.5,w
+West Ham vs Blackpool,1.91,3.6,4,d
+Wigan vs West Brom,2.5,3.25,2.88,w
+Wolves vs Bolton,2.4,3.1,3.2,l
+Chelsea vs Sunderland,1.22,5.75,15,l
+Everton vs Arsenal,3.4,3.3,2.2,l
+Arsenal vs Tottenham,1.62,4,5.5,l
+Birmingham vs Chelsea,5,3.6,1.73,w
+Blackpool vs Wolves,2.5,3.3,2.88,w
+Bolton vs Newcastle,2.1,3.3,3.6,w
+Liverpool vs West Ham,1.57,3.8,6.5,w
+Man United vs Wigan,1.22,6,15,w
+West Brom vs Stoke,2.2,3.2,3.5,l
+Blackburn vs Aston Villa,2.3,3.25,3.25,w
+Fulham vs Man City,3.2,3.1,2.4,l
+Sunderland vs Everton,2.6,3.2,2.8,d
+Aston Villa vs Arsenal,3.4,3.3,2.2,l
+Bolton vs Blackpool,1.57,4.2,5.5,d
+Everton vs West Brom,1.57,3.8,6.5,l
+Fulham vs Birmingham,2,3.3,4,d
+Man United vs Blackburn,1.25,5.5,13,w
+Stoke vs Man City,3.4,3.25,2.2,d
+West Ham vs Wigan,2,3.5,3.75,w
+Wolves vs Sunderland,2.6,3.2,2.8,w
+Newcastle vs Chelsea,5,3.6,1.73,d
+Tottenham vs Liverpool,2,3.4,3.8,w
+Arsenal vs Fulham,1.29,5.25,12,w
+Birmingham vs Tottenham,3.5,3.4,2.1,d
+Blackburn vs Wolves,1.73,3.6,5,w
+Chelsea vs Everton,1.36,4.75,9,d
+Man City vs Bolton,1.53,4,6.5,w
+Wigan vs Stoke,2.75,3.2,2.63,d
+Sunderland vs West Ham,1.83,3.5,4.5,w
+West Brom vs Newcastle,2.25,3.3,3.25,w
+Liverpool vs Aston Villa,1.62,3.75,6,w
+Aston Villa vs West Brom,2.1,3.3,3.6,w
+Everton vs Wigan,1.4,4.5,9,d
+Fulham vs Sunderland,2.2,3.25,3.4,d
+Newcastle vs Liverpool,3.8,3.4,2,w
+Stoke vs Blackpool,1.62,4,5.5,l
+West Ham vs Man City,4.5,3.6,1.8,l
+Bolton vs Blackburn,2,3.3,4,w
+Tottenham vs Chelsea,2.8,3.25,2.6,d
+Wolves vs Birmingham,2.4,3.25,3,w
+Man United vs Arsenal,2,3.4,3.8,w
+Blackburn vs West Ham,1.8,3.6,4.5,d
+Sunderland vs Bolton,2.2,3.2,3.5,w
+Man City vs Everton,1.73,3.6,5,l
+Aston Villa vs Tottenham,3.2,3.3,2.3,l
+Blackburn vs Stoke,2.3,3.2,3.2,l
+Bolton vs West Brom,2.1,3.25,3.75,w
+Fulham vs West Ham,1.91,3.4,4.2,l
+Man United vs Sunderland,1.29,5.5,11,w
+Newcastle vs Man City,3.25,3.25,2.25,l
+Wolves vs Wigan,2.1,3.3,3.6,l
+Arsenal vs Chelsea,2.63,3.2,2.75,w
+Birmingham vs Man United,6.5,4.33,1.5,d
+Man City vs Aston Villa,1.44,4.2,8,w
+Stoke vs Fulham,1.83,3.4,4.75,l
+Sunderland vs Blackpool,1.62,3.75,6,l
+Tottenham vs Newcastle,1.53,4,6.5,w
+West Brom vs Blackburn,1.83,3.5,4.5,l
+West Ham vs Everton,3.4,3.2,2.25,d
+Chelsea vs Bolton,1.29,5.5,11,w
+Liverpool vs Wolves,1.33,5,10,l
+Wigan vs Arsenal,6.5,4.2,1.5,d
+Birmingham vs Arsenal,5.5,3.6,1.67,l
+Liverpool vs Bolton,1.7,3.75,5,w
+Man City vs Blackpool,1.29,5.5,10,w
+Stoke vs Everton,2.63,3.2,2.75,w
+Sunderland vs Blackburn,1.83,3.5,4.5,w
+Tottenham vs Fulham,1.4,4.5,8.5,w
+West Brom vs Man United,6,4.2,1.53,l
+West Ham vs Wolves,2,3.4,3.8,w
+Chelsea vs Aston Villa,1.25,5.5,13,d
+Wigan vs Newcastle,2.5,3.2,2.9,l
+Blackpool vs Birmingham,2.3,3.25,3.25,l
+Fulham vs West Brom,2.2,3.25,3.4,w
+Man United vs Stoke,1.25,5.75,12,w
+Arsenal vs Man City,1.91,3.6,4,d
+Aston Villa vs Sunderland,2.2,3.25,3.4,l
+Blackburn vs Liverpool,3.4,3.25,2.2,w
+Bolton vs Wigan,1.73,3.6,5,d
+Everton vs Tottenham,2.63,3.25,2.75,w
+Newcastle vs West Ham,1.83,3.6,4.33,w
+Wolves vs Chelsea,8,4.2,1.44,w
+Blackpool vs Liverpool,3.8,3.75,1.91,w
+Chelsea vs Blackburn,1.29,5.5,11,w
+Man City vs Wolves,1.33,5,10,w
+Stoke vs Bolton,2.1,3.25,3.75,w
+West Brom vs Blackpool,1.8,3.6,4.5,w
+West Ham vs Arsenal,6,4,1.57,l
+Wigan vs Fulham,2.5,3.25,2.88,d
+Birmingham vs Aston Villa,2.4,3.2,3.1,d
+Liverpool vs Everton,2.2,3.2,3.5,d
+Sunderland vs Newcastle,2.2,3.25,3.4,d
+Tottenham vs Man United,2.88,3.3,2.5,d
+Arsenal vs Wigan,1.2,6.5,15,w
+Aston Villa vs Man City,3.5,3.4,2.1,w
+Blackpool vs Sunderland,2.5,3.25,2.88,l
+Everton vs West Ham,1.5,4,7.5,d
+Fulham vs Stoke,2.2,3.2,3.5,w
+Man United vs Birmingham,1.2,6.5,15,w
+Newcastle vs Tottenham,3.5,3.4,2.1,d
+Wolves vs Liverpool,3.4,3.2,2.25,l
+Blackburn vs West Brom,2.25,3.3,3.25,w
+Bolton vs Chelsea,6,3.75,1.62,l
+Blackpool vs Man United,8,5,1.36,l
+Wigan vs Aston Villa,3.2,3.25,2.3,l
+Liverpool vs Fulham,1.53,3.8,7,w
+Arsenal vs Everton,1.4,4.5,8.5,w
+Man United vs Aston Villa,1.33,5,9.5,w
+Sunderland vs Chelsea,5.5,3.6,1.67,l
+West Brom vs Wigan,1.73,3.6,5,d
+Birmingham vs Man City,4.5,3.5,1.83,d
+Blackburn vs Tottenham,3.25,3.4,2.2,l
+Blackpool vs West Ham,2.38,3.3,3,l
+Bolton vs Wolves,1.83,3.5,4.5,w
+Fulham vs Newcastle,2.1,3.3,3.6,w
+Liverpool vs Stoke,1.62,3.75,6,w
+Aston Villa vs Fulham,1.91,3.4,4.2,d
+Everton vs Blackpool,1.44,4.5,7,w
+Man City vs West Brom,1.4,4.5,8.5,w
+Newcastle vs Arsenal,5,4,1.67,d
+Stoke vs Sunderland,2.1,3.2,3.75,w
+Tottenham vs Bolton,1.57,4,6,w
+Wigan vs Blackburn,2.5,3.25,2.9,w
+Wolves vs Man United,8.5,4.5,1.4,w
+Chelsea vs Liverpool,1.62,4,5.5,l
+West Ham vs Birmingham,2,3.5,3.75,l
+Arsenal vs Wolves,1.22,6,15,w
+Birmingham vs Stoke,2.5,3.2,2.9,w
+Blackburn vs Newcastle,2.1,3.4,3.5,d
+Blackpool vs Aston Villa,3.25,3.4,2.2,d
+Liverpool vs Wigan,1.36,4.75,9,d
+Man United vs Man City,1.73,3.6,5,w
+Sunderland vs Tottenham,2.75,3.25,2.6,l
+West Brom vs West Ham,1.91,3.6,4,d
+Bolton vs Everton,2.75,3.25,2.6,w
+Fulham vs Chelsea,5,3.6,1.73,d
+Birmingham vs Newcastle,2.6,3.2,2.8,l
+West Brom vs Wolves,1.85,3.4,4.5,d
+Blackpool vs Tottenham,4,3.6,1.91,w
+Arsenal vs Stoke,1.3,5.25,10,w
+Aston Villa vs Blackburn,1.73,3.6,5,w
+Everton vs Sunderland,1.73,3.6,5,w
+Newcastle vs Bolton,2.1,3.25,3.75,d
+Wigan vs Man United,6.5,4,1.53,l
+Wolves vs Blackpool,1.83,3.6,4.33,w
+Man City vs Fulham,1.5,4,7.5,d
+West Ham vs Liverpool,3.4,3.3,2.2,w
+Stoke vs West Brom,1.91,3.4,4.2,d
+Chelsea vs Man United,2.2,3.2,3.6,w
+Arsenal vs Sunderland,1.44,4.33,7.5,d
+Birmingham vs West Brom,2.38,3.2,3.1,l
+Bolton vs Aston Villa,2.25,3.4,3.2,w
+Fulham vs Blackburn,1.73,3.6,5,w
+Man City vs Wigan,1.36,4.75,9,w
+Newcastle vs Everton,2.6,3.2,2.8,l
+West Ham vs Stoke,2.25,3.3,3.25,w
+Liverpool vs Man United,2.8,3.2,2.6,w
+Wolves vs Tottenham,3,3.3,2.38,d
+Blackpool vs Chelsea,10,5.5,1.3,l
+Everton vs Birmingham,1.53,4,6.5,d
+Aston Villa vs Wolves,1.83,3.5,4.5,l
+Blackburn vs Blackpool,1.8,3.6,4.5,d
+Everton vs Fulham,2,3.25,4,w
+Man United vs Bolton,1.36,4.75,9,w
+Stoke vs Newcastle,2.2,3.25,3.4,w
+Tottenham vs West Ham,1.57,4,6,d
+West Brom vs Arsenal,5,3.6,1.73,d
+Wigan vs Birmingham,2.1,3.3,3.6,w
+Chelsea vs Man City,1.62,3.75,6,w
+Sunderland vs Liverpool,2.63,3.2,2.75,l
+Arsenal vs Blackburn,1.25,6,11,d
+Birmingham vs Bolton,2.5,3.25,2.88,w
+Everton vs Aston Villa,1.83,3.6,4.33,d
+Newcastle vs Wolves,1.95,3.4,4,w
+Stoke vs Chelsea,5.5,3.6,1.67,d
+West Brom vs Liverpool,3,3.3,2.38,w
+West Ham vs Man United,4.5,3.6,1.8,l
+Wigan vs Tottenham,3,3.25,2.4,d
+Fulham vs Blackpool,1.53,4.2,6,w
+Man City vs Sunderland,1.5,4,7,w
+Blackburn vs Birmingham,2,3.3,4,d
+Bolton vs West Ham,2.2,3.25,3.4,w
+Chelsea vs Wigan,1.2,6,17,w
+Man United vs Fulham,1.44,4.33,7.5,w
+Sunderland vs West Brom,2.2,3.2,3.5,l
+Tottenham vs Stoke,1.73,3.6,5,w
+Wolves vs Everton,2.6,3.25,2.8,l
+Aston Villa vs Newcastle,1.83,3.6,4.33,w
+Blackpool vs Arsenal,8.5,5,1.36,l
+Liverpool vs Man City,2.6,3.2,2.8,w
+Birmingham vs Sunderland,2.25,3.2,3.4,w
+Blackpool vs Wigan,2.3,3.5,3,l
+Everton vs Blackburn,1.67,3.75,5.5,w
+West Brom vs Chelsea,5.5,3.6,1.7,l
+West Ham vs Aston Villa,2.25,3.3,3.25,l
+Arsenal vs Liverpool,1.73,3.6,5,d
+Newcastle vs Man United,5.5,3.6,1.67,d
+Chelsea vs Birmingham,1.2,6.5,15,w
+Tottenham vs Arsenal,2.88,3.4,2.4,d
+Aston Villa vs Stoke,1.8,3.6,4.5,d
+Blackpool vs Newcastle,2.88,3.5,2.38,d
+Chelsea vs West Ham,1.2,6.5,15,w
+Liverpool vs Birmingham,1.44,4.33,7.5,w
+Man United vs Everton,1.44,4.33,7.5,w
+Sunderland vs Wigan,2.1,3.25,3.75,w
+Tottenham vs West Brom,1.57,4,6,d
+Wolves vs Fulham,2.5,3.25,2.88,d
+Bolton vs Arsenal,4.5,3.8,1.75,w
+Blackburn vs Man City,3.6,3.3,2.1,l
+Stoke vs Wolves,1.8,3.4,5,w
+Fulham vs Bolton,1.8,3.5,4.75,w
+Blackburn vs Bolton,1.91,3.5,4,w
+Blackpool vs Stoke,2.63,3.4,2.63,d
+Chelsea vs Tottenham,1.44,4.33,7.5,w
+Sunderland vs Fulham,2.6,3.2,2.8,l
+West Brom vs Aston Villa,2.38,3.3,3,w
+Wigan vs Everton,2.8,3.25,2.6,d
+Arsenal vs Man United,2.5,3.25,2.88,w
+Birmingham vs Wolves,2.1,3.3,3.6,d
+Liverpool vs Newcastle,1.44,4.33,7.5,w
+Man City vs West Ham,1.4,4.5,9,w
+Aston Villa vs Wigan,1.8,3.6,4.5,d
+Bolton vs Sunderland,1.83,3.5,4.5,l
+Everton vs Man City,2.7,3.2,2.7,w
+Newcastle vs Birmingham,1.91,3.4,4.2,w
+Tottenham vs Blackpool,1.3,5.5,10,d
+West Ham vs Blackburn,1.95,3.6,3.8,d
+Man United vs Chelsea,2.38,3.25,3.1,w
+Stoke vs Arsenal,5.5,3.75,1.67,w
+Wolves vs West Brom,2.1,3.4,3.5,w
+Fulham vs Liverpool,2.88,3.25,2.5,l
+Man City vs Tottenham,1.91,3.4,4.2,w
+Blackburn vs Man United,5,3.6,1.73,d
+Blackpool vs Bolton,2.2,3.4,3.25,w
+Sunderland vs Wolves,2.5,3.25,2.88,l
+West Brom vs Everton,2.63,3.25,2.75,w
+Arsenal vs Aston Villa,1.36,5,8.5,l
+Birmingham vs Fulham,2.2,3.25,3.4,l
+Chelsea vs Newcastle,1.25,6,11,d
+Liverpool vs Tottenham,1.73,3.8,4.75,l
+Wigan vs West Ham,2.1,3.4,3.5,w
+Man City vs Stoke,1.36,4.75,9,w
+Aston Villa vs Liverpool,3.2,3.4,2.25,w
+Bolton vs Man City,5,3.75,1.7,l
+Everton vs Chelsea,3.1,3.25,2.38,w
+Fulham vs Arsenal,3.75,3.6,1.95,d
+Man United vs Blackpool,1.6,4,5.5,w
+Newcastle vs West Brom,2,3.5,3.75,d
+Stoke vs Wigan,2.75,3.6,2.4,l
+Tottenham vs Birmingham,1.53,4,6.5,w
+West Ham vs Sunderland,2,3.5,3.75,l
+Wolves vs Blackburn,2.2,3,3.75,l
+Fulham vs Arsenal,5.5,4.25,1.57,l
+Crystal Palace vs Southampton,3,3.2,2.45,w
+Liverpool vs Leeds,1.26,6.25,10.5,w
+West Ham vs Newcastle,2.15,3.4,3.4,l
+West Brom vs Leicester,3.7,3.6,2,l
+Tottenham vs Everton,1.85,3.6,4.33,l
+Brighton vs Chelsea,5,4.1,1.65,l
+Sheffield United vs Wolves,3.4,3.1,2.3,l
+Everton vs West Brom,1.55,4.2,6,w
+Leeds vs Fulham,1.62,4,5.5,w
+Man United vs Crystal Palace,1.33,5.25,9.25,l
+Arsenal vs West Ham,1.53,4.33,6,w
+Southampton vs Tottenham,3.1,3.25,2.4,l
+Newcastle vs Brighton,2.75,3.1,2.75,l
+Chelsea vs Liverpool,3.1,3.7,2.2,l
+Leicester vs Burnley,1.6,4,5.75,w
+Aston Villa vs Sheffield United,2.7,3.2,2.7,w
+Wolves vs Man City,6.5,4.5,1.48,l
+Brighton vs Man United,5,3.7,1.72,l
+Crystal Palace vs Everton,3.8,3.3,2.05,l
+West Brom vs Chelsea,8.5,4.5,1.4,d
+Burnley vs Southampton,3.2,3.3,2.3,l
+Sheffield United vs Leeds,2.7,3.4,2.6,l
+Tottenham vs Newcastle,1.48,4.4,6.75,d
+Man City vs Leicester,1.3,6,9,l
+West Ham vs Wolves,3.8,3.4,2.05,w
+Fulham vs Aston Villa,2.85,3.25,2.55,l
+Liverpool vs Arsenal,1.5,4.75,5.75,w
+Chelsea vs Crystal Palace,1.42,4.75,7.5,w
+Everton vs Brighton,1.75,3.6,5,w
+Leeds vs Man City,7,5.25,1.4,d
+Newcastle vs Burnley,2.45,3.1,3.1,w
+Leicester vs West Ham,1.65,4.1,5,l
+Southampton vs West Brom,1.72,3.9,4.75,w
+Arsenal vs Sheffield United,1.55,4.1,6.25,w
+Wolves vs Fulham,1.5,4,7.25,w
+Man United vs Tottenham,1.91,3.7,3.9,l
+Aston Villa vs Liverpool,9.75,5.5,1.3,w
+Everton vs Liverpool,3.8,4.1,1.83,d
+Chelsea vs Southampton,1.5,4.6,6,d
+Man City vs Arsenal,1.48,4.75,6,w
+Newcastle vs Man United,4.75,4.2,1.65,l
+Sheffield United vs Fulham,2.05,3.4,3.7,d
+Crystal Palace vs Brighton,2.6,3.3,2.75,d
+Tottenham vs West Ham,1.57,4.25,5.5,d
+Leicester vs Aston Villa,1.83,3.9,4,l
+West Brom vs Burnley,2.45,3.3,2.95,d
+Leeds vs Wolves,2.5,3.2,3,l
+Aston Villa vs Leeds,2.15,3.6,3.25,l
+West Ham vs Man City,7.25,5,1.4,d
+Fulham vs Crystal Palace,2.7,3.1,2.8,l
+Man United vs Chelsea,2.35,3.6,2.9,d
+Liverpool vs Sheffield United,1.25,6.25,11.5,w
+Southampton vs Everton,2.8,3.5,2.45,w
+Wolves vs Newcastle,1.75,3.5,5.25,d
+Arsenal vs Leicester,1.91,3.8,3.8,l
+Brighton vs West Brom,1.75,3.9,4.5,d
+Burnley vs Tottenham,5.5,4,1.62,l
+Wolves vs Crystal Palace,2.05,3.1,4.2,w
+Sheffield United vs Man City,9.5,5.75,1.3,l
+Burnley vs Chelsea,6.25,4.5,1.5,l
+Liverpool vs West Ham,1.36,5.25,7.75,w
+Aston Villa vs Southampton,2.35,3.6,2.85,l
+Newcastle vs Everton,3.75,3.4,2.05,w
+Man United vs Arsenal,2,3.7,3.6,l
+Tottenham vs Brighton,1.62,4.25,5,w
+Fulham vs West Brom,2.4,3.3,3,w
+Leeds vs Leicester,2.6,3.6,2.6,l
+Brighton vs Burnley,1.9,3.5,4.25,d
+Southampton vs Newcastle,2,3.5,3.75,w
+Everton vs Man United,2.85,3.5,2.4,l
+Crystal Palace vs Leeds,2.9,3.4,2.45,w
+Chelsea vs Sheffield United,1.4,4.75,7.75,w
+West Ham vs Fulham,1.85,3.75,4.1,w
+West Brom vs Tottenham,6,4.2,1.55,l
+Leicester vs Wolves,2.25,3.2,3.4,w
+Man City vs Liverpool,1.95,4,3.5,d
+Arsenal vs Aston Villa,1.7,4,4.75,l
+Newcastle vs Chelsea,6,4.6,1.5,l
+Aston Villa vs Brighton,2.15,3.6,3.25,l
+Tottenham vs Man City,4.1,3.8,1.83,w
+Man United vs West Brom,1.3,5.5,9.75,w
+Fulham vs Everton,4,3.8,1.85,l
+Sheffield United vs West Ham,3,3.3,2.4,l
+Leeds vs Arsenal,3.1,3.75,2.15,d
+Liverpool vs Leicester,1.91,3.8,3.75,w
+Burnley vs Crystal Palace,2.75,3.1,2.75,w
+Wolves vs Southampton,2.3,3.25,3.2,d
+Crystal Palace vs Newcastle,2.15,3.2,3.7,l
+Brighton vs Liverpool,5.5,4,1.62,d
+Man City vs Burnley,1.18,7.5,15,w
+Everton vs Leeds,1.95,3.7,3.7,l
+West Brom vs Sheffield United,2.55,3.1,2.95,w
+Southampton vs Man United,3.8,3.6,1.95,l
+Chelsea vs Tottenham,2.1,3.5,3.5,d
+Arsenal vs Wolves,2.05,3.4,3.8,l
+Leicester vs Fulham,1.53,4.1,6.5,l
+West Ham vs Aston Villa,2.25,3.5,3.1,w
+Burnley vs Everton,4.1,3.5,1.91,d
+Man City vs Fulham,1.11,10,21,w
+West Ham vs Man United,3.6,3.5,2.05,l
+Chelsea vs Leeds,1.53,4.4,5.75,w
+West Brom vs Crystal Palace,2.8,3.2,2.6,l
+Sheffield United vs Leicester,3.8,3.5,2,l
+Tottenham vs Arsenal,1.95,3.6,3.8,w
+Liverpool vs Wolves,1.5,4.2,7,w
+Brighton vs Southampton,2.55,3.4,2.75,l
+Leeds vs West Ham,2.2,3.6,3.1,l
+Wolves vs Aston Villa,2.35,3.3,3.1,l
+Newcastle vs West Brom,2.45,3.2,3,w
+Man United vs Man City,4.2,4.2,1.75,d
+Everton vs Chelsea,4.25,4.1,1.75,w
+Southampton vs Sheffield United,1.7,3.8,5,w
+Crystal Palace vs Tottenham,4.75,3.7,1.75,d
+Fulham vs Liverpool,8.5,5.5,1.33,d
+Arsenal vs Burnley,1.55,4.1,6.25,l
+Leicester vs Brighton,2,3.4,3.9,w
+Wolves vs Chelsea,5,3.8,1.7,w
+Man City vs West Brom,1.1,10.5,23,d
+Arsenal vs Southampton,2.2,3.5,3.2,d
+Leeds vs Newcastle,1.75,3.8,4.6,w
+Leicester vs Everton,2.2,3.6,3.1,l
+Fulham vs Brighton,2.9,3.3,2.5,d
+Liverpool vs Tottenham,1.78,3.75,4.5,w
+West Ham vs Crystal Palace,2.05,3.3,3.8,d
+Aston Villa vs Burnley,1.7,4,4.75,d
+Sheffield United vs Man United,6.5,4.5,1.48,l
+Crystal Palace vs Liverpool,6,4.6,1.5,l
+Southampton vs Man City,6.25,4.6,1.48,l
+Everton vs Arsenal,2.25,3.5,3.1,w
+Newcastle vs Fulham,2.55,3.25,2.85,d
+Brighton vs Sheffield United,1.72,3.7,5,d
+Tottenham vs Leicester,2.05,3.5,3.6,l
+Man United vs Leeds,1.7,4.25,4.4,w
+West Brom vs Aston Villa,3.7,3.8,1.95,l
+Burnley vs Wolves,3.6,3.1,2.2,w
+Chelsea vs West Ham,1.45,4.75,6.5,w
+Leicester vs Man United,2.9,3.6,2.35,d
+Aston Villa vs Crystal Palace,1.95,3.7,3.75,w
+Fulham vs Southampton,3.1,3.3,2.35,d
+Arsenal vs Chelsea,4.1,3.5,1.91,w
+Man City vs Newcastle,1.12,9,23,w
+Sheffield United vs Everton,4.33,3.6,1.85,l
+Leeds vs Burnley,1.72,4,4.5,w
+West Ham vs Brighton,2.35,3.3,3.1,d
+Liverpool vs West Brom,1.13,8.75,19.5,d
+Wolves vs Tottenham,3.75,3.25,2.1,d
+Crystal Palace vs Leicester,3.8,3.6,1.95,d
+Chelsea vs Aston Villa,1.67,4.1,4.75,d
+Brighton vs Arsenal,3.2,3.4,2.25,l
+Burnley vs Sheffield United,2.3,3.2,3.25,w
+Southampton vs West Ham,2.15,3.6,3.25,d
+West Brom vs Leeds,3.6,3.7,2,l
+Man United vs Wolves,1.57,4.2,5.75,w
+Newcastle vs Liverpool,9.25,5.75,1.3,d
+Everton vs West Ham,2.15,3.5,3.3,l
+Man United vs Aston Villa,1.7,4.2,4.5,w
+Tottenham vs Leeds,1.78,3.9,4.25,w
+Crystal Palace vs Sheffield United,1.95,3.5,3.9,w
+Brighton vs Wolves,2.6,3.2,2.8,d
+West Brom vs Arsenal,5.75,4.1,1.57,l
+Newcastle vs Leicester,5.25,4.1,1.62,l
+Chelsea vs Man City,3,3.7,2.25,l
+Southampton vs Liverpool,4.75,4.25,1.65,w
+Sheffield United vs Newcastle,2.45,3.1,3.1,w
+Burnley vs Man United,7.25,4.5,1.45,l
+Wolves vs Everton,2.45,3.1,3.1,l
+Man City vs Brighton,1.2,6.75,14.5,w
+Tottenham vs Fulham,1.4,4.75,8,d
+Arsenal vs Crystal Palace,1.55,4,6.5,d
+Wolves vs West Brom,1.6,3.6,6.75,l
+Leeds vs Brighton,2.15,3.5,3.3,l
+West Ham vs Burnley,1.8,3.6,4.6,w
+Fulham vs Chelsea,6.75,4.1,1.53,l
+Leicester vs Southampton,1.78,3.75,4.5,w
+Sheffield United vs Tottenham,6.5,3.8,1.57,l
+Liverpool vs Man United,2,3.8,3.5,d
+Man City vs Crystal Palace,1.17,7.75,14.5,w
+Arsenal vs Newcastle,1.45,4.6,7,w
+West Ham vs West Brom,1.57,4,6,w
+Leicester vs Chelsea,2.85,3.4,2.45,w
+Man City vs Aston Villa,1.25,6.25,11.5,w
+Fulham vs Man United,5.75,4.33,1.55,l
+Liverpool vs Burnley,1.17,7.5,15.5,l
+Liverpool vs Norwich,1.14,8.25,18.5,w
+West Ham vs Man City,11.5,5.75,1.26,l
+Bournemouth vs Sheffield United,1.95,3.6,3.9,d
+Burnley vs Southampton,2.65,3.2,2.75,w
+Crystal Palace vs Everton,3.2,3.2,2.35,d
+Watford vs Brighton,1.9,3.4,4.33,l
+Tottenham vs Aston Villa,1.3,5.5,10,w
+Leicester vs Wolves,2.25,3.3,3.3,d
+Newcastle vs Arsenal,4.5,3.75,1.78,l
+Man United vs Chelsea,2.15,3.3,3.5,w
+Arsenal vs Burnley,1.3,5.5,10,w
+Aston Villa vs Bournemouth,2.25,3.5,3.1,l
+Brighton vs West Ham,2.5,3.3,2.9,d
+Everton vs Watford,1.67,4,5,w
+Norwich vs Newcastle,2.25,3.3,3.3,w
+Southampton vs Liverpool,6.25,4.75,1.48,l
+Man City vs Tottenham,1.35,5.5,7.75,d
+Sheffield United vs Crystal Palace,2.55,3.2,2.9,w
+Chelsea vs Leicester,1.72,3.7,5,d
+Wolves vs Man United,3.3,3.25,2.3,d
+Aston Villa vs Everton,3.1,3.5,2.25,w
+Norwich vs Chelsea,4.33,3.8,1.8,l
+Brighton vs Southampton,2.4,3.2,3.1,l
+Man United vs Crystal Palace,1.36,5,8.5,l
+Sheffield United vs Leicester,3.5,3.2,2.2,l
+Watford vs West Ham,2.1,3.6,3.4,l
+Liverpool vs Arsenal,1.48,4.75,6,w
+Bournemouth vs Man City,13.5,7,1.2,l
+Tottenham vs Newcastle,1.22,6.5,13.5,l
+Wolves vs Burnley,1.83,3.5,4.6,d
+Southampton vs Man United,3.7,3.4,2.05,d
+Chelsea vs Sheffield United,1.34,5,9.5,d
+Crystal Palace vs Aston Villa,2.2,3.3,3.4,w
+Leicester vs Bournemouth,1.7,4,4.75,w
+Man City vs Brighton,1.07,11.5,31,w
+Newcastle vs Watford,2.5,3.3,2.85,d
+West Ham vs Norwich,1.87,3.8,4,w
+Burnley vs Liverpool,9.75,5.5,1.3,l
+Everton vs Wolves,2.15,3.25,3.6,w
+Arsenal vs Tottenham,2.4,3.6,2.8,d
+Liverpool vs Newcastle,1.14,8.25,18.5,w
+Brighton vs Burnley,2.15,3.3,3.5,d
+Man United vs Leicester,1.87,3.7,4.1,w
+Sheffield United vs Southampton,2.45,3.1,3.1,l
+Tottenham vs Crystal Palace,1.36,5,8.5,w
+Wolves vs Chelsea,2.95,3.4,2.4,l
+Norwich vs Man City,14.5,8.5,1.16,w
+Bournemouth vs Everton,3,3.5,2.3,w
+Watford vs Arsenal,3.8,3.8,1.91,d
+Aston Villa vs West Ham,2.6,3.4,2.7,d
+Southampton vs Bournemouth,2,3.7,3.6,l
+Leicester vs Tottenham,2.95,3.4,2.4,w
+Burnley vs Norwich,1.95,3.8,3.6,w
+Everton vs Sheffield United,1.65,3.8,5.5,l
+Man City vs Watford,1.11,10.5,17.5,w
+Newcastle vs Brighton,2.45,3.2,3,d
+Crystal Palace vs Wolves,2.65,3,2.95,d
+West Ham vs Man United,3.25,3.6,2.15,w
+Arsenal vs Aston Villa,1.4,5,7.25,w
+Chelsea vs Liverpool,3.6,3.7,2,l
+Sheffield United vs Liverpool,9.5,5.25,1.33,l
+Aston Villa vs Burnley,2.35,3.3,3.1,d
+Bournemouth vs West Ham,2.5,3.6,2.7,d
+Chelsea vs Brighton,1.42,4.6,7.75,w
+Crystal Palace vs Norwich,1.95,3.6,3.8,w
+Tottenham vs Southampton,1.42,4.6,7.5,w
+Wolves vs Watford,1.87,3.5,4.33,w
+Everton vs Man City,9.75,6,1.28,l
+Leicester vs Newcastle,1.53,4,6.75,w
+Man United vs Arsenal,2.35,3.4,3,d
+Brighton vs Tottenham,3.8,3.6,1.95,w
+Burnley vs Everton,2.85,3.25,2.55,w
+Liverpool vs Leicester,1.45,4.6,7,w
+Norwich vs Aston Villa,2.3,3.6,2.95,l
+Watford vs Sheffield United,2.2,3.3,3.4,d
+West Ham vs Crystal Palace,2,3.5,3.75,l
+Arsenal vs Bournemouth,1.42,5,6.75,w
+Man City vs Wolves,1.13,9,19.5,l
+Southampton vs Chelsea,4,3.75,1.87,l
+Newcastle vs Man United,4.5,3.4,1.87,w
+Everton vs West Ham,1.95,3.6,3.8,w
+Aston Villa vs Brighton,2.4,3.3,3,w
+Bournemouth vs Norwich,1.72,4.2,4.33,d
+Chelsea vs Newcastle,1.3,5.5,10,w
+Leicester vs Burnley,1.55,4,6.5,w
+Tottenham vs Watford,1.42,4.75,7.25,d
+Wolves vs Southampton,1.83,3.5,4.5,d
+Crystal Palace vs Man City,12.5,6.5,1.22,l
+Man United vs Liverpool,5,4,1.67,d
+Sheffield United vs Arsenal,3.8,3.75,1.91,w
+Southampton vs Leicester,3.25,3.4,2.3,l
+Man City vs Aston Villa,1.09,11,23,w
+Brighton vs Everton,2.85,3.3,2.55,w
+Watford vs Bournemouth,2.2,3.5,3.2,d
+West Ham vs Sheffield United,2.05,3.5,3.6,d
+Burnley vs Chelsea,4.5,3.9,1.75,l
+Newcastle vs Wolves,2.9,3.1,2.6,d
+Arsenal vs Crystal Palace,1.45,4.75,6.5,d
+Liverpool vs Tottenham,1.5,4.5,6.25,w
+Norwich vs Man United,4.33,4,1.75,l
+Bournemouth vs Man United,3.25,3.6,2.15,w
+Arsenal vs Wolves,1.78,3.7,4.6,d
+Aston Villa vs Liverpool,9.25,5,1.35,l
+Brighton vs Norwich,1.72,4.2,4.33,w
+Man City vs Southampton,1.09,11,23,w
+Sheffield United vs Burnley,2.2,3.2,3.5,w
+West Ham vs Newcastle,1.8,3.8,4.25,l
+Watford vs Chelsea,4.75,4.2,1.65,l
+Crystal Palace vs Leicester,3.5,3.3,2.15,l
+Everton vs Tottenham,2.8,3.4,2.5,d
+Norwich vs Watford,2.7,3.5,2.6,l
+Chelsea vs Crystal Palace,1.34,5.25,8.75,w
+Burnley vs West Ham,2.3,3.5,3,w
+Newcastle vs Bournemouth,2.7,3.1,2.8,w
+Southampton vs Everton,2.9,3.4,2.45,l
+Tottenham vs Sheffield United,1.57,4,6,d
+Leicester vs Arsenal,2,3.8,3.5,w
+Man United vs Brighton,1.6,3.8,6,w
+Wolves vs Aston Villa,1.85,3.6,4.33,w
+Liverpool vs Man City,2.65,3.6,2.55,w
+West Ham vs Tottenham,4.33,4,1.75,l
+Arsenal vs Southampton,1.45,4.75,6.5,d
+Bournemouth vs Wolves,2.85,3.3,2.5,l
+Brighton vs Leicester,3.7,3.6,2,l
+Crystal Palace vs Liverpool,7.5,4.5,1.44,l
+Everton vs Norwich,1.4,5,7.25,l
+Watford vs Burnley,2.3,3.3,3.2,l
+Man City vs Chelsea,1.45,5,6.25,w
+Sheffield United vs Man United,3.6,3.25,2.15,d
+Aston Villa vs Newcastle,2.1,3.4,3.6,w
+Newcastle vs Man City,15,7.25,1.18,d
+Burnley vs Crystal Palace,2.3,3.2,3.3,l
+Chelsea vs West Ham,1.28,6,9.75,l
+Liverpool vs Brighton,1.2,7,13,w
+Tottenham vs Bournemouth,1.4,5,7.5,w
+Southampton vs Watford,2.1,3.5,3.5,w
+Norwich vs Arsenal,4.1,4.25,1.75,d
+Wolves vs Sheffield United,1.9,3.4,4.33,d
+Leicester vs Everton,1.6,4.25,5.25,w
+Man United vs Aston Villa,1.48,4.4,6.75,d
+Crystal Palace vs Bournemouth,2.2,3.3,3.4,w
+Burnley vs Man City,11.5,6.25,1.25,l
+Chelsea vs Aston Villa,1.28,5.75,10.5,w
+Leicester vs Watford,1.34,5.25,8.75,w
+Man United vs Tottenham,2.65,3.5,2.6,w
+Southampton vs Norwich,1.75,4,4.33,w
+Wolves vs West Ham,1.75,3.8,4.6,w
+Liverpool vs Everton,1.4,4.75,7.75,w
+Sheffield United vs Newcastle,1.83,3.4,4.75,l
+Arsenal vs Brighton,1.57,4.25,5.5,l
+Everton vs Chelsea,3.5,3.75,2,w
+Bournemouth vs Liverpool,7.25,5,1.4,l
+Tottenham vs Burnley,1.42,4.75,7.5,w
+Watford vs Crystal Palace,2.3,3.3,3.2,d
+Man City vs Man United,1.3,5.75,9.25,l
+Aston Villa vs Leicester,4.5,3.9,1.75,l
+Newcastle vs Southampton,2.6,3.2,2.8,w
+Norwich vs Sheffield United,2.85,3.5,2.4,l
+Brighton vs Wolves,2.7,3.1,2.8,d
+West Ham vs Arsenal,3.6,4,1.91,l
+Liverpool vs Watford,1.16,8,15.5,w
+Burnley vs Newcastle,1.91,3.6,4,w
+Chelsea vs Bournemouth,1.26,6.25,10,l
+Leicester vs Norwich,1.22,6.5,13.5,d
+Sheffield United vs Aston Villa,1.87,3.7,4.1,w
+Southampton vs West Ham,1.91,3.8,3.8,l
+Man United vs Everton,1.75,3.75,4.75,d
+Wolves vs Tottenham,3.2,3.5,2.2,l
+Arsenal vs Man City,6.25,5.5,1.42,l
+Crystal Palace vs Brighton,2.5,3.25,2.9,d
+Everton vs Arsenal,2.3,3.75,2.85,d
+Aston Villa vs Southampton,2.35,3.6,2.85,l
+Bournemouth vs Burnley,2.4,3.4,2.95,l
+Brighton vs Sheffield United,2.2,3.3,3.4,l
+Newcastle vs Crystal Palace,2.45,3.1,3.1,w
+Norwich vs Wolves,3.75,3.7,1.95,l
+Man City vs Leicester,1.36,5.5,7.5,w
+Watford vs Man United,4.33,4,1.75,w
+Tottenham vs Chelsea,2.3,3.7,2.9,l
+Tottenham vs Brighton,1.55,4.4,5.5,w
+Aston Villa vs Norwich,2.05,3.8,3.3,w
+Bournemouth vs Arsenal,3.5,3.9,1.95,d
+Chelsea vs Southampton,1.35,5.25,8.25,l
+Crystal Palace vs West Ham,2.2,3.5,3.2,w
+Everton vs Burnley,1.67,3.8,5.25,w
+Sheffield United vs Watford,1.85,3.5,4.5,d
+Man United vs Newcastle,1.35,5.25,8.5,w
+Leicester vs Liverpool,3.4,3.7,2.05,l
+Wolves vs Man City,7.5,5,1.4,w
+Brighton vs Bournemouth,1.8,3.8,4.33,w
+Newcastle vs Everton,3.4,3.4,2.15,l
+Southampton vs Crystal Palace,1.95,3.6,3.9,d
+Watford vs Aston Villa,1.95,3.7,3.7,w
+Norwich vs Tottenham,5,4.1,1.65,d
+West Ham vs Leicester,3.9,3.8,1.87,l
+Burnley vs Man United,4.33,3.6,1.85,l
+Arsenal vs Chelsea,2.85,3.75,2.3,l
+Liverpool vs Wolves,1.26,6,11.5,w
+Man City vs Sheffield United,1.18,7.5,15,w
+Brighton vs Chelsea,3.8,3.75,1.91,d
+Burnley vs Aston Villa,1.78,3.9,4.4,l
+Newcastle vs Leicester,5,4,1.67,l
+Southampton vs Tottenham,3.4,3.6,2.1,w
+Watford vs Wolves,3.2,3.25,2.3,w
+Man City vs Everton,1.26,6.25,10.5,w
+Norwich vs Crystal Palace,2.55,3.5,2.7,d
+West Ham vs Bournemouth,1.95,3.8,3.6,w
+Arsenal vs Man United,2.6,3.6,2.6,w
+Liverpool vs Sheffield United,1.22,6.5,13,w
+Sheffield United vs West Ham,2,3.4,4,w
+Crystal Palace vs Arsenal,4,3.8,1.85,d
+Chelsea vs Burnley,1.3,5.5,10,w
+Everton vs Brighton,1.87,3.6,4.2,w
+Leicester vs Southampton,1.62,4,5.5,l
+Man United vs Norwich,1.36,5,8.5,w
+Wolves vs Newcastle,1.45,4.25,8,d
+Tottenham vs Liverpool,4.5,4.33,1.67,l
+Bournemouth vs Watford,2.45,3.4,2.85,l
+Aston Villa vs Man City,14,8.5,1.16,l
+Watford vs Tottenham,3.1,3.6,2.2,d
+Arsenal vs Sheffield United,1.8,3.7,4.5,d
+Brighton vs Aston Villa,1.62,4.33,5,d
+Man City vs Crystal Palace,1.11,9.75,23,d
+Norwich vs Bournemouth,2.2,3.5,3.2,w
+Southampton vs Wolves,2.35,3.4,3,l
+West Ham vs Everton,2.95,3.5,2.35,d
+Newcastle vs Chelsea,6,4.6,1.5,w
+Burnley vs Leicester,4.33,3.7,1.83,w
+Liverpool vs Man United,1.4,5.25,7,w
+Aston Villa vs Watford,2.9,3.5,2.45,w
+Bournemouth vs Brighton,2.9,3.4,2.5,w
+Crystal Palace vs Southampton,2.75,3.3,2.7,l
+Everton vs Newcastle,1.6,4,6,d
+Sheffield United vs Man City,7.25,4.75,1.44,l
+Chelsea vs Arsenal,1.75,3.9,4.75,d
+Leicester vs West Ham,1.53,4.5,5.75,w
+Tottenham vs Norwich,1.42,4.75,7.25,w
+Man United vs Burnley,1.4,4.75,7.75,l
+Wolves vs Liverpool,5.5,4,1.62,l
+West Ham vs Liverpool,8.25,5.5,1.34,l
+Leicester vs Chelsea,2.5,3.5,2.75,d
+Bournemouth vs Aston Villa,2.1,3.6,3.4,w
+Crystal Palace vs Sheffield United,3.1,3.1,2.45,l
+Liverpool vs Southampton,1.28,5.75,10.5,w
+Newcastle vs Norwich,2.25,3.4,3.2,d
+Watford vs Everton,2.75,3.3,2.6,l
+West Ham vs Brighton,2.5,3.4,2.8,d
+Man United vs Wolves,2.2,3.1,3.6,d
+Burnley vs Arsenal,3.8,3.4,2.05,d
+Tottenham vs Man City,5.75,4.5,1.53,w
+Everton vs Crystal Palace,1.62,3.7,6,w
+Brighton vs Watford,2.15,3.3,3.5,d
+Sheffield United vs Bournemouth,1.67,3.6,5.75,w
+Wolves vs Leicester,2.55,3.3,2.9,d
+Southampton vs Burnley,1.78,3.7,4.6,l
+Norwich vs Liverpool,9.75,6,1.28,l
+Aston Villa vs Tottenham,4,3.8,1.85,l
+Arsenal vs Newcastle,1.4,4.75,8,w
+Chelsea vs Man United,1.87,3.5,4.33,l
+Man City vs West Ham,1.13,9,18,w
+Chelsea vs Tottenham,1.72,4,4.6,w
+Burnley vs Bournemouth,2.15,3.25,3.6,w
+Crystal Palace vs Newcastle,1.91,3.3,4.4,w
+Sheffield United vs Brighton,1.91,3.4,4.25,d
+Southampton vs Aston Villa,1.62,4.1,5.25,w
+Leicester vs Man City,4.5,4.2,1.7,l
+Man United vs Watford,1.57,4,6,w
+Wolves vs Norwich,1.53,4.33,6,w
+Arsenal vs Everton,2,3.6,3.7,w
+Liverpool vs West Ham,1.17,7.5,16,w
+Norwich vs Leicester,4.6,4.1,1.72,w
+Brighton vs Crystal Palace,2.05,3.2,4,l
+Bournemouth vs Chelsea,4.75,3.9,1.72,d
+Newcastle vs Burnley,2.55,3.1,3,d
+West Ham vs Southampton,2.65,3.6,2.55,w
+Watford vs Liverpool,7.5,5,1.4,w
+Everton vs Man United,2.5,3.4,2.8,d
+Tottenham vs Wolves,2.35,3.25,3.2,l
+Liverpool vs Bournemouth,1.25,6,12.5,w
+Arsenal vs West Ham,1.53,4.33,6,w
+Crystal Palace vs Watford,2.6,3.2,2.85,w
+Sheffield United vs Norwich,1.65,3.7,5.75,w
+Southampton vs Newcastle,1.65,3.9,5.25,l
+Wolves vs Brighton,1.65,3.9,5.25,d
+Burnley vs Tottenham,2.7,3.25,2.7,d
+Chelsea vs Everton,1.83,3.6,4.4,w
+Man United vs Man City,5,4.25,1.62,w
+Leicester vs Aston Villa,1.36,5,8.5,w
+Aston Villa vs Sheffield United,3.2,3.4,2.2,d
+Man City vs Arsenal,1.34,5.25,8.25,w
+Norwich vs Southampton,3.2,3.5,2.2,l
+Tottenham vs Man United,2.95,3.4,2.4,d
+Watford vs Leicester,3.3,3.6,2.15,d
+Brighton vs Arsenal,3.4,3.4,2.15,w
+West Ham vs Wolves,3.6,3.4,2.1,l
+Bournemouth vs Crystal Palace,2.45,3.3,2.95,l
+Newcastle vs Sheffield United,3.3,3.2,2.3,w
+Aston Villa vs Chelsea,5.75,4.1,1.57,l
+Everton vs Liverpool,5.5,4.25,1.57,d
+Man City vs Burnley,1.15,9,15,w
+Leicester vs Brighton,1.65,3.9,5.25,d
+Tottenham vs West Ham,1.65,4.1,5,w
+Man United vs Sheffield United,1.42,4.5,8,w
+Newcastle vs Aston Villa,2.3,3.3,3.25,d
+Norwich vs Everton,3.75,3.7,1.95,l
+Wolves vs Bournemouth,1.57,4.1,6,w
+Liverpool vs Crystal Palace,1.22,6.25,14,w
+Burnley vs Watford,2.95,3.2,2.5,w
+Southampton vs Arsenal,2.65,3.4,2.65,l
+Chelsea vs Man City,4.1,4,1.8,w
+Aston Villa vs Wolves,4.75,3.6,1.78,l
+Watford vs Southampton,2.5,3.3,2.9,l
+Crystal Palace vs Burnley,2.25,3.2,3.4,l
+Brighton vs Man United,6,3.8,1.62,l
+Arsenal vs Norwich,1.45,4.75,6.5,w
+Bournemouth vs Newcastle,2.3,3.25,3.2,l
+Everton vs Leicester,2.5,3.3,2.85,w
+West Ham vs Chelsea,5.25,4.2,1.62,w
+Sheffield United vs Tottenham,4.2,3.4,1.95,w
+Man City vs Liverpool,2.05,3.8,3.3,w
+Norwich vs Brighton,3.3,3.3,2.25,l
+Leicester vs Crystal Palace,1.65,3.6,6,w
+Man United vs Bournemouth,1.17,7,18,w
+Wolves vs Arsenal,2.25,3.25,3.4,l
+Chelsea vs Watford,1.42,4.5,8,w
+Burnley vs Sheffield United,2.9,2.95,2.75,d
+Newcastle vs West Ham,2.65,3.25,2.75,d
+Liverpool vs Aston Villa,1.34,5.5,8.25,w
+Southampton vs Man City,8.5,5.5,1.33,w
+Tottenham vs Everton,2.05,3.6,3.5,w
+Crystal Palace vs Chelsea,8,4.5,1.42,l
+Watford vs Norwich,1.72,3.7,5,w
+Arsenal vs Leicester,2.3,3.4,3.1,d
+Man City vs Newcastle,1.12,9.25,21,w
+Sheffield United vs Wolves,3.9,3,2.15,w
+West Ham vs Burnley,2,3.4,3.9,l
+Brighton vs Liverpool,5.75,4.33,1.55,l
+Bournemouth vs Tottenham,5,4.1,1.65,d
+Everton vs Southampton,2,3.5,3.75,d
+Aston Villa vs Man United,9.25,5.25,1.33,l
+Norwich vs West Ham,3.8,3.6,1.95,l
+Watford vs Newcastle,1.83,3.6,4.5,w
+Liverpool vs Burnley,1.25,6,11.5,d
+Sheffield United vs Chelsea,6,3.75,1.62,w
+Brighton vs Man City,10,5.5,1.3,l
+Wolves vs Everton,2.05,3.4,3.8,w
+Aston Villa vs Crystal Palace,2.25,3.3,3.3,w
+Tottenham vs Arsenal,2.65,3.4,2.65,w
+Bournemouth vs Leicester,5,4,1.67,w
+Man United vs Southampton,1.28,6,10,d
+Chelsea vs Norwich,1.13,8.75,18.5,w
+Burnley vs Wolves,4.5,3.3,1.9,d
+Man City vs Bournemouth,1.16,8,15.5,w
+Newcastle vs Tottenham,4.4,3.7,1.8,l
+Arsenal vs Liverpool,3.8,4,1.85,w
+Everton vs Aston Villa,1.95,3.6,3.8,d
+Leicester vs Sheffield United,1.95,3.4,4.1,w
+Crystal Palace vs Man United,9.25,4.75,1.36,l
+Southampton vs Brighton,2.2,3.25,3.5,d
+West Ham vs Watford,2.35,3.1,3.3,w
+Norwich vs Burnley,3.4,3.3,2.2,l
+Bournemouth vs Southampton,2.3,3.7,2.9,l
+Tottenham vs Leicester,2.35,3.3,3.1,w
+Brighton vs Newcastle,1.95,3.4,4.2,d
+Sheffield United vs Everton,2.15,3.3,3.5,l
+Wolves vs Crystal Palace,1.5,3.9,7.75,w
+Watford vs Man City,9,5.75,1.3,l
+Aston Villa vs Arsenal,3.25,3.9,2.05,w
+Man United vs West Ham,1.25,6.25,11.5,d
+Liverpool vs Chelsea,1.95,3.8,3.6,w
+Arsenal vs Watford,1.91,3.75,3.8,w
+Burnley vs Brighton,2.3,3.4,3.1,l
+Chelsea vs Wolves,1.8,3.8,4.25,w
+Crystal Palace vs Tottenham,6,4.2,1.55,d
+Everton vs Bournemouth,2.25,3.8,2.9,l
+Leicester vs Man United,3.2,3.5,2.2,l
+Man City vs Norwich,1.05,13.5,41,w
+Newcastle vs Liverpool,7.5,4.75,1.42,l
+Southampton vs Sheffield United,2.2,3.5,3.2,w
+West Ham vs Aston Villa,3,3.5,2.3,d
