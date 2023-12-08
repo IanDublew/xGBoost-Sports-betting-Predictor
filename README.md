@@ -1,17 +1,3 @@
-Predicting Football Match Outcomes with XGBoost
-This repository contains a Python script that demonstrates the use of XGBoost for predicting football match outcomes (win, draw, or loss). The script utilizes the popular libraries Pandas, XGBoost, Seaborn, and Matplotlib for data manipulation, model training, and result visualization.
-
-Prerequisites
-Make sure you have the following Python libraries installed:
-
-pandas
-xgboost
-seaborn
-matplotlib
-scikit-learn
-You can install them using the following command:
-				pip install pandas xgboost seaborn matplotlib scikit-learn
-
 
 
 Script Details
